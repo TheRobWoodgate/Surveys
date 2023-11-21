@@ -1,0 +1,1969 @@
+,Scheme,Likelihood to Speak Positively,Water Ordering,Temporary Transfers,Billing,Land Leases,Understand Business,Mobile,SPPs,Helpful Service,Responsiveness,Cluster
+0,Lower Mary River,1,0,1,1,1,1,0,0,1,1,0
+1,Mareeba Dimbulah,4,3,4,4,0,0,4,0,0,3,0
+2,Upper Condamine,3,3,4,3,4,3,4,3,3,4,2
+3,Mareeba Dimbulah,5,5,5,5,5,5,5,5,5,5,3
+4,St George,5,5,5,4,4,5,4,4,5,4,1
+5,Callide Valley,4,0,0,4,0,0,4,0,0,4,0
+6,Upper Burnett,2,0,2,3,0,1,1,1,1,2,0
+7,Macintyre Brook,4,3,0,3,0,0,3,3,3,3,2
+8,St George,5,5,0,0,0,0,4,0,4,4,0
+9,Three Moon Creek,3,0,0,3,0,3,4,3,3,3,2
+10,Mareeba Dimbulah,4,4,0,4,0,3,4,0,5,4,0
+11,Bundaberg,4,0,4,4,0,0,4,4,4,4,0
+12,Burdekin Haughton,3,5,0,3,3,5,0,5,5,5,3
+13,Lower Mary River,4,0,0,4,0,3,4,0,4,4,0
+14,Bundaberg,4,4,4,4,4,4,4,4,4,4,1
+15,Burdekin Haughton,3,4,3,4,3,3,3,3,3,3,2
+16,Mareeba Dimbulah,3,2,4,4,0,3,4,3,3,4,2
+17,Mareeba Dimbulah,3,4,4,4,3,3,4,4,4,4,1
+18,Dawson Valley,4,4,4,4,4,4,0,0,4,4,1
+19,Dawson Valley,4,4,4,3,3,3,3,3,4,4,1
+20,Lower Fitzroy,4,4,5,5,4,4,5,0,4,4,1
+21,Bundaberg,2,3,0,3,0,3,3,3,3,2,2
+22,Bundaberg,2,0,3,0,0,0,3,0,0,3,0
+23,Proserpine River,3,4,4,4,0,4,4,0,3,1,1
+24,Boyne River and Tarong,4,4,4,4,4,4,4,4,4,4,1
+25,Burdekin Haughton,3,2,3,3,3,1,3,2,2,4,2
+26,Mareeba Dimbulah,4,4,5,5,0,4,5,0,4,4,1
+27,St George,3,3,3,0,0,3,0,4,2,2,2
+28,Mareeba Dimbulah,3,3,3,3,0,3,3,3,3,3,2
+29,Bundaberg,4,3,3,3,3,3,4,3,3,4,2
+30,Bundaberg,4,4,5,4,4,4,4,4,4,4,1
+31,Bundaberg,4,5,0,4,0,3,5,4,4,4,0
+32,Border Rivers,3,5,0,4,4,4,5,0,4,4,0
+33,Mareeba Dimbulah,4,5,5,5,5,5,5,5,5,5,3
+34,Three Moon Creek,3,0,0,2,0,2,4,3,3,2,0
+35,Burdekin Haughton,4,3,0,4,0,4,4,4,4,4,0
+36,Mareeba Dimbulah,3,0,0,5,5,3,5,3,3,3,2
+37,Callide Valley,3,4,4,4,0,4,4,4,4,3,1
+38,Bundaberg,4,0,0,3,0,3,4,3,3,3,0
+39,Mareeba Dimbulah,3,0,3,3,0,0,4,0,3,4,0
+40,Burdekin Haughton,2,2,4,4,3,1,4,3,2,3,1
+41,Mareeba Dimbulah,3,3,0,3,0,2,0,0,3,3,2
+42,Burdekin Haughton,3,0,0,5,0,3,0,0,3,3,2
+43,Burdekin Haughton,3,3,0,4,4,3,3,3,3,3,2
+44,Boyne River and Tarong,4,0,0,4,4,4,4,4,4,4,1
+45,Callide Valley,5,4,0,5,0,4,4,3,4,4,0
+46,Bundaberg,4,0,0,3,0,0,3,0,3,3,0
+47,Bundaberg,3,0,3,4,0,3,3,3,3,3,2
+48,Lower Mary River,5,5,5,4,4,4,5,4,4,4,1
+49,Three Moon Creek,4,0,3,4,0,3,4,0,4,4,0
+50,Mareeba Dimbulah,4,0,4,0,0,0,4,2,3,2,0
+51,Nogoa Mackenzie,4,4,4,4,4,4,4,4,4,4,1
+52,Border Rivers,4,5,0,5,0,4,0,0,5,5,0
+53,Eton,4,0,0,3,0,0,5,4,4,5,0
+54,Barker Barambah,3,4,4,4,4,3,4,4,4,4,1
+55,Burdekin Haughton,5,5,0,5,0,5,5,5,5,5,3
+56,Mareeba Dimbulah,3,0,0,4,0,1,3,0,3,2,0
+57,Mareeba Dimbulah,3,0,0,0,0,0,0,0,0,3,0
+58,Eton,4,4,4,4,4,4,5,4,5,4,1
+59,Boyne River and Tarong,3,4,4,4,4,4,4,4,4,3,1
+60,Dawson Valley,4,3,3,4,4,3,4,4,4,3,1
+61,Boyne River and Tarong,4,0,0,4,3,3,4,4,4,4,0
+62,Mareeba Dimbulah,3,3,3,3,3,3,3,3,3,3,2
+63,Burdekin Haughton,3,4,4,4,0,3,4,4,3,3,1
+64,Macintyre Brook,3,0,0,4,0,0,5,0,0,3,0
+65,Mareeba Dimbulah,4,4,4,4,4,3,4,4,4,4,1
+66,Dawson Valley,3,3,3,3,3,3,3,3,3,4,2
+67,Boyne River and Tarong,4,3,0,4,0,0,4,4,4,4,0
+68,Bundaberg,4,3,3,3,0,3,4,3,3,3,2
+69,Callide Valley,3,0,1,2,3,2,4,0,3,3,0
+70,Mareeba Dimbulah,4,0,0,4,0,0,4,0,4,4,0
+71,Nogoa Mackenzie,4,4,4,4,3,3,4,4,4,4,1
+72,Bundaberg,5,5,5,5,4,5,5,4,5,4,3
+73,Bundaberg,4,4,0,4,0,0,4,0,5,5,0
+74,Mareeba Dimbulah,2,4,4,4,0,0,4,4,3,3,1
+75,Boyne River and Tarong,4,3,4,4,3,3,4,3,5,4,1
+76,Nogoa Mackenzie,3,0,0,3,0,0,2,0,2,3,0
+77,Mareeba Dimbulah,4,4,4,4,0,0,4,4,4,4,1
+78,Bundaberg,3,5,0,4,0,0,4,4,4,4,0
+79,Mareeba Dimbulah,3,3,3,3,4,3,3,3,4,3,2
+80,Burdekin Haughton,3,3,0,4,3,2,3,0,3,3,2
+81,Burdekin Haughton,3,3,3,3,3,3,3,3,3,3,2
+82,Callide Valley,4,0,4,4,0,4,0,0,4,4,0
+83,Burdekin Haughton,4,4,4,4,4,4,4,4,4,3,1
+84,Barker Barambah,3,0,3,3,3,3,4,4,3,3,2
+85,Boyne River and Tarong,4,4,0,4,4,4,4,4,4,4,1
+86,Bundaberg,3,5,5,5,0,3,3,3,3,5,2
+87,Eton,4,4,0,0,0,0,3,0,3,4,0
+88,Mareeba Dimbulah,3,0,0,3,0,0,0,0,3,3,2
+89,Bundaberg,5,0,0,4,0,3,0,0,4,4,0
+90,Boyne River and Tarong,4,0,0,4,4,4,3,4,4,4,1
+91,Boyne River and Tarong,4,4,4,4,3,0,3,3,3,3,1
+92,Bundaberg,4,0,0,5,0,0,5,5,5,5,0
+93,Nogoa Mackenzie,4,4,0,4,4,3,4,3,4,4,1
+94,Three Moon Creek,4,0,4,3,0,3,3,0,3,3,2
+95,Callide Valley,3,4,4,4,0,4,4,4,4,4,1
+96,Mareeba Dimbulah,4,4,4,4,0,0,4,4,4,4,1
+97,Bundaberg,4,4,4,4,4,0,4,4,0,4,1
+98,Dawson Valley,3,4,3,3,3,3,4,3,3,3,2
+99,Dawson Valley,4,5,5,5,5,4,5,5,5,5,3
+100,Mareeba Dimbulah,3,1,4,4,0,4,4,0,3,3,1
+101,Eton,2,3,0,5,3,3,4,2,3,3,2
+102,Mareeba Dimbulah,4,0,0,4,0,0,4,0,4,2,0
+103,Lower Fitzroy,5,4,4,4,4,4,4,4,4,4,1
+104,Bundaberg,5,5,4,5,5,5,5,5,5,5,3
+105,Bundaberg,2,3,3,3,3,2,4,3,2,3,2
+106,Boyne River and Tarong,5,0,0,4,0,0,4,0,4,5,0
+107,Burdekin Haughton,4,4,4,4,4,4,4,4,4,4,1
+108,Bundaberg,4,0,0,4,0,0,4,4,4,4,0
+109,Boyne River and Tarong,4,0,0,4,0,0,2,2,4,3,0
+110,Lower Mary River,5,4,4,4,4,4,4,4,5,5,1
+111,Burdekin Haughton,3,4,4,4,4,4,4,4,4,4,1
+112,Mareeba Dimbulah,3,3,0,4,3,3,0,3,4,4,2
+113,Eton,3,0,0,3,3,2,4,0,3,3,0
+114,Burdekin Haughton,4,4,4,4,4,4,4,4,4,4,1
+115,Bundaberg,5,5,5,5,5,5,5,5,5,5,3
+116,Burdekin Haughton,3,3,0,3,0,3,3,3,3,3,2
+117,Bundaberg,2,2,3,3,3,3,4,3,4,3,2
+118,Boyne River and Tarong,4,0,0,4,0,0,4,0,4,3,0
+119,Bundaberg,3,0,0,4,0,0,4,4,4,4,0
+120,Bundaberg,4,0,4,4,0,0,4,0,4,4,0
+121,Lower Mary River,4,4,4,4,4,4,4,4,4,4,1
+122,Upper Condamine,3,5,5,4,0,4,0,0,4,5,0
+123,Burdekin Haughton,1,5,3,3,0,1,4,2,3,4,2
+124,Proserpine River,4,3,3,3,0,3,3,2,4,4,2
+125,Upper Burnett,3,4,4,4,4,4,4,4,4,3,1
+126,Macintyre Brook,4,3,0,4,0,4,4,3,3,3,0
+127,Upper Condamine,3,5,4,5,0,4,4,4,5,4,1
+128,Burdekin Haughton,5,5,0,5,5,5,5,5,5,5,3
+129,Dawson Valley,4,4,4,4,4,4,4,4,4,4,1
+130,Macintyre Brook,4,3,4,4,3,4,4,3,4,4,1
+131,Upper Burnett,4,4,4,4,4,0,4,0,4,4,1
+132,Proserpine River,4,5,5,4,0,4,4,4,4,3,1
+133,Burdekin Haughton,4,3,4,4,0,4,4,4,4,4,1
+134,Pioneer River,3,3,3,3,3,3,3,3,4,4,2
+135,Lower Mary River,3,0,0,3,0,1,3,2,2,3,2
+136,Bundaberg,5,4,0,5,4,0,5,0,0,3,0
+137,Callide Valley,5,3,0,3,0,0,4,0,3,2,0
+138,Macintyre Brook,3,3,3,3,0,0,0,0,0,3,2
+139,Bundaberg,3,4,0,4,3,3,4,4,4,4,0
+140,Mareeba Dimbulah,5,4,0,4,0,4,4,3,4,4,1
+141,Chinchilla Weir,3,0,0,0,0,0,0,0,0,3,0
+142,Nogoa Mackenzie,3,3,3,3,3,2,4,3,4,3,2
+143,Bundaberg,3,4,4,4,0,3,5,5,4,4,0
+144,Macintyre Brook,1,1,1,1,1,1,1,1,1,1,0
+145,Proserpine River,4,4,0,4,0,5,5,0,5,5,0
+146,Bundaberg,3,0,0,0,0,0,3,3,0,4,0
+147,Eton,2,3,0,5,0,2,5,3,3,3,2
+148,Three Moon Creek,4,0,4,4,4,4,4,0,3,3,1
+149,Burdekin Haughton,1,0,0,5,0,4,5,0,0,5,0
+150,Mareeba Dimbulah,4,0,0,4,0,0,5,0,5,5,0
+151,Burdekin Haughton,3,4,4,4,3,3,4,3,4,3,1
+152,Dawson Valley,4,3,4,4,4,5,4,4,4,4,1
+153,Dawson Valley,4,4,4,4,4,4,4,4,4,4,1
+154,St George,5,5,4,5,0,5,5,5,5,5,3
+155,Burdekin Haughton,2,1,0,5,0,1,4,1,1,1,0
+156,Mareeba Dimbulah,4,0,0,4,0,0,0,0,0,4,0
+157,Burdekin Haughton,3,3,3,4,3,2,3,3,3,3,2
+158,Nogoa Mackenzie,4,4,3,4,4,4,4,3,5,5,1
+159,Eton,3,3,2,3,3,3,4,4,3,3,2
+160,Nogoa Mackenzie,5,5,5,5,4,0,5,0,5,5,3
+161,Callide Valley,4,0,0,4,0,0,2,3,3,3,0
+162,Burdekin Haughton,4,4,4,4,3,4,4,3,4,4,1
+163,Bowen Broken Rivers,5,4,4,4,4,4,4,0,4,4,1
+164,Bundaberg,4,0,4,4,0,4,4,4,4,4,0
+165,Mareeba Dimbulah,5,4,0,4,0,4,4,4,4,4,1
+166,Mareeba Dimbulah,4,4,5,5,0,5,5,5,5,4,3
+167,Mareeba Dimbulah,3,3,2,2,2,3,4,3,3,2,2
+168,Bundaberg,3,0,4,4,0,0,2,0,3,3,0
+169,Bundaberg,3,0,5,5,0,3,5,5,5,5,3
+170,Mareeba Dimbulah,4,0,0,3,0,3,3,3,3,3,2
+171,Bundaberg,5,0,0,5,0,0,0,0,3,3,0
+172,Mareeba Dimbulah,4,0,0,5,0,0,0,0,5,5,0
+173,Mareeba Dimbulah,3,4,0,4,0,4,4,4,4,4,1
+174,Callide Valley,4,0,3,4,0,3,3,3,3,4,2
+175,Boyne River and Tarong,4,3,3,4,3,3,3,0,3,3,2
+176,Bundaberg,2,3,4,4,0,2,4,4,4,3,0
+177,Mareeba Dimbulah,3,3,2,4,3,2,2,2,4,3,2
+178,Upper Burnett,4,3,3,3,3,3,3,3,3,3,2
+179,Mareeba Dimbulah,4,3,3,3,3,3,3,3,3,3,2
+180,Lower Mary River,4,4,5,4,0,4,3,3,4,3,1
+181,Border Rivers,4,0,4,3,3,0,3,3,3,4,0
+182,Bundaberg,3,0,3,4,0,3,4,4,4,3,0
+183,Upper Condamine,4,4,3,3,3,3,3,3,3,4,2
+184,Mareeba Dimbulah,1,1,1,1,0,1,1,1,1,1,2
+185,Mareeba Dimbulah,5,5,5,5,5,5,5,5,5,5,3
+186,Mareeba Dimbulah,3,4,4,4,0,3,4,2,2,3,1
+187,Burdekin Haughton,4,5,5,5,5,5,5,5,5,5,3
+188,Bundaberg,4,4,0,4,3,0,3,0,4,4,0
+189,Lower Mary River,5,5,0,5,0,4,5,5,5,5,3
+190,Barker Barambah,3,5,5,4,4,3,4,3,3,3,2
+191,Burdekin Haughton,3,4,0,4,1,2,3,1,2,3,2
+192,Callide Valley,5,0,0,0,4,4,4,4,4,5,1
+193,Bundaberg,4,0,0,5,0,0,4,4,4,4,0
+194,Bundaberg,4,4,4,4,0,0,4,0,4,4,0
+195,Bundaberg,5,5,5,5,0,5,0,0,5,5,3
+196,Bundaberg,4,3,3,4,0,4,5,0,5,4,0
+197,Bundaberg,5,3,4,4,4,3,4,4,3,3,1
+198,Cunnamulla,4,0,0,4,0,0,4,0,3,3,0
+199,Upper Burnett,4,0,0,3,0,0,3,0,3,3,0
+200,Chinchilla Weir,4,4,4,4,4,4,4,4,4,4,1
+201,Bundaberg,4,3,0,3,0,0,0,0,0,4,0
+202,Mareeba Dimbulah,3,1,0,4,0,0,3,0,4,4,0
+203,Bundaberg,3,4,3,3,3,3,4,4,4,4,1
+204,Upper Burnett,4,0,4,4,0,3,0,0,3,4,0
+205,Mareeba Dimbulah,5,4,4,4,4,3,5,4,4,4,1
+206,Border Rivers,1,1,1,1,1,1,1,1,1,1,0
+207,Mareeba Dimbulah,4,3,5,5,3,3,5,4,5,5,3
+208,Nogoa Mackenzie,4,5,4,4,4,4,4,4,4,4,1
+209,Upper Burnett,3,0,0,3,0,0,0,0,0,3,0
+210,Burdekin Haughton,3,3,3,4,0,3,3,3,2,3,2
+211,Mareeba Dimbulah,4,5,5,5,5,5,5,5,5,5,3
+212,Mareeba Dimbulah,4,0,0,4,4,0,0,0,4,4,0
+213,Bundaberg,4,4,5,4,0,4,4,4,4,4,1
+214,Bundaberg,4,3,3,4,0,3,5,4,4,4,0
+215,Proserpine River,4,0,5,4,0,0,0,4,5,4,0
+216,St George,3,0,0,0,0,3,4,3,3,3,2
+217,Mareeba Dimbulah,1,5,4,5,4,5,5,4,5,5,3
+218,Eton,4,4,0,4,0,4,4,4,4,3,1
+219,Macintyre Brook,5,4,0,4,0,4,4,4,4,4,1
+220,Upper Burnett,3,0,4,3,0,0,3,0,0,1,0
+221,Barker Barambah,3,4,0,4,4,0,3,4,4,4,1
+222,Lower Mary River,4,0,0,4,0,3,5,4,4,4,0
+223,Nogoa Mackenzie,5,0,0,5,0,0,5,0,5,5,0
+224,Bundaberg,4,0,4,4,3,3,4,0,4,4,0
+225,Mareeba Dimbulah,4,3,0,4,0,3,4,3,4,4,0
+226,Mareeba Dimbulah,4,5,5,5,5,5,5,5,5,5,3
+227,Bowen Broken Rivers,4,0,0,4,4,0,4,4,4,4,0
+228,Boyne River and Tarong,5,5,0,5,0,5,5,5,5,4,3
+229,Eton,4,4,0,3,0,0,2,3,3,4,0
+230,Boyne River and Tarong,5,0,0,4,0,0,4,4,5,5,0
+231,Bundaberg,4,4,5,5,0,0,5,4,3,4,0
+232,Mareeba Dimbulah,4,0,0,4,0,0,4,0,5,4,0
+233,Nogoa Mackenzie,4,5,5,5,5,5,5,5,5,4,3
+234,Mareeba Dimbulah,4,0,0,4,0,0,4,0,4,1,0
+235,Callide Valley,2,3,3,3,0,1,3,0,1,1,2
+236,Dawson Valley,2,3,3,2,3,1,2,1,1,2,2
+237,Burdekin Haughton,3,4,0,4,0,3,4,2,4,4,0
+238,Bundaberg,4,0,4,4,0,3,4,4,4,4,0
+239,Mareeba Dimbulah,1,4,0,4,0,1,1,0,1,1,0
+240,Mareeba Dimbulah,2,0,0,3,0,0,0,0,3,3,0
+241,Mareeba Dimbulah,4,0,0,4,0,3,5,3,5,4,0
+242,Mareeba Dimbulah,2,0,0,3,0,0,0,0,0,3,0
+243,Boyne River and Tarong,5,0,0,5,5,5,0,0,5,5,3
+244,Burdekin Haughton,3,3,0,1,0,3,3,4,4,3,2
+245,Bundaberg,4,5,5,5,5,5,5,4,5,5,3
+246,Chinchilla Weir,4,4,4,4,4,4,4,3,4,4,1
+247,Lower Mary River,5,0,4,4,5,4,4,4,4,4,1
+248,Mareeba Dimbulah,4,5,5,5,5,5,5,5,5,5,3
+249,Mareeba Dimbulah,4,0,0,4,0,4,4,4,4,4,0
+250,Burdekin Haughton,2,4,0,4,3,2,4,1,3,3,0
+251,Mareeba Dimbulah,4,0,4,3,0,0,4,4,4,4,0
+252,Bundaberg,5,0,5,5,0,4,5,5,5,5,3
+253,Cunnamulla,3,4,4,4,4,4,4,4,3,3,1
+254,Boyne River and Tarong,5,0,0,4,0,0,4,0,4,5,0
+255,Boyne River and Tarong,3,3,3,4,4,4,5,4,5,4,1
+256,Border Rivers,3,4,0,3,3,3,4,4,3,4,1
+257,Bundaberg,5,0,4,5,4,4,4,4,4,5,1
+258,Three Moon Creek,4,3,4,3,3,3,4,4,5,4,1
+259,Bundaberg,3,0,4,4,3,3,4,3,4,4,0
+260,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+261,Border Rivers,4,4,4,4,4,4,4,4,4,4,1
+262,Nogoa Mackenzie,4,0,0,4,4,0,4,0,4,4,0
+263,Three Moon Creek,3,0,4,3,0,2,4,0,4,3,0
+264,St George,3,3,3,4,0,3,3,3,3,3,2
+265,Bundaberg,2,4,4,4,4,3,4,4,3,3,1
+266,Bundaberg,5,5,5,5,0,0,5,5,5,5,3
+267,Upper Burnett,4,0,0,3,0,3,0,3,4,3,0
+268,Callide Valley,4,0,0,0,0,0,0,4,4,4,0
+269,Bundaberg,4,3,3,3,3,3,4,4,4,4,0
+270,Nogoa Mackenzie,3,0,0,3,4,0,4,0,3,3,0
+271,Mareeba Dimbulah,4,0,0,4,0,0,4,0,4,4,0
+272,Nogoa Mackenzie,4,0,0,4,0,4,5,0,0,4,0
+273,Dawson Valley,4,0,0,4,0,4,0,0,4,4,0
+274,Mareeba Dimbulah,3,0,3,4,0,0,0,3,3,3,2
+275,Mareeba Dimbulah,5,0,4,4,4,3,3,3,3,4,1
+276,Burdekin Haughton,3,2,4,5,0,3,3,3,3,3,2
+277,Bundaberg,4,0,0,4,0,4,5,5,5,4,0
+278,Nogoa Mackenzie,3,0,4,4,0,0,0,0,2,4,0
+279,St George,5,5,5,5,5,0,5,5,5,5,3
+280,Mareeba Dimbulah,5,4,5,5,4,4,5,4,4,5,1
+281,Burdekin Haughton,4,0,0,4,0,0,0,0,4,3,0
+282,Bundaberg,4,3,3,3,3,3,3,3,4,4,2
+283,Bundaberg,4,4,3,4,3,3,3,3,4,3,2
+284,Three Moon Creek,4,0,0,4,4,3,0,4,4,4,0
+285,Burdekin Haughton,5,5,5,5,0,4,0,0,5,5,3
+286,Barker Barambah,4,4,4,4,3,4,3,3,4,4,1
+287,Burdekin Haughton,4,5,5,5,5,5,5,5,5,4,3
+288,Macintyre Brook,4,5,5,4,4,4,4,4,4,4,1
+289,Upper Condamine,4,4,4,4,4,4,4,4,4,4,1
+290,Mareeba Dimbulah,4,4,4,4,0,4,4,0,4,4,1
+291,Bundaberg,4,0,4,4,0,4,4,4,4,4,0
+292,Bundaberg,4,0,4,4,0,3,5,4,4,5,0
+293,Boyne River and Tarong,4,0,0,5,0,5,0,0,5,4,0
+294,Mareeba Dimbulah,4,0,0,4,0,0,4,4,4,3,0
+295,Cunnamulla,4,0,0,4,0,4,4,0,4,4,0
+296,Lower Mary River,5,4,4,4,4,4,4,4,4,4,1
+297,Eton,4,0,0,4,3,4,0,0,4,4,0
+298,Proserpine River,3,3,3,3,3,3,3,3,3,3,2
+299,Bundaberg,4,4,4,3,0,4,4,3,4,4,1
+300,Border Rivers,4,5,4,4,0,4,4,4,5,4,1
+301,St George,3,4,2,4,3,4,4,3,5,3,1
+302,Lower Mary River,5,4,0,4,0,4,4,0,4,4,0
+303,Burdekin Haughton,3,3,3,3,3,3,3,3,3,3,2
+304,Mareeba Dimbulah,3,4,3,4,3,3,4,3,3,3,2
+305,Burdekin Haughton,4,4,4,4,4,4,4,4,4,3,1
+306,Upper Condamine,5,4,0,4,0,5,5,4,5,4,0
+307,Mareeba Dimbulah,1,3,0,2,0,1,0,1,1,3,2
+308,Bundaberg,3,0,0,4,0,0,3,0,3,3,0
+309,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+310,Bundaberg,4,0,0,4,0,4,4,4,4,4,0
+311,Upper Burnett,3,0,3,3,0,0,3,3,3,3,2
+312,Mareeba Dimbulah,3,2,3,3,0,2,2,3,3,3,2
+313,Proserpine River,4,4,4,4,4,4,4,4,4,4,1
+314,Callide Valley,1,0,0,4,0,1,4,1,1,1,0
+315,Chinchilla Weir,4,4,4,4,4,3,4,4,4,4,1
+316,Mareeba Dimbulah,4,0,0,4,0,0,3,0,4,2,0
+317,Nogoa Mackenzie,4,4,5,5,0,0,5,0,4,3,0
+318,Mareeba Dimbulah,5,4,5,5,5,5,4,4,5,5,3
+319,Lower Mary River,5,0,0,5,0,0,4,0,0,4,0
+320,Burdekin Haughton,3,3,3,4,2,3,3,3,4,3,2
+321,Mareeba Dimbulah,4,4,4,4,0,4,0,0,4,4,1
+322,Mareeba Dimbulah,3,5,0,4,0,4,5,4,5,4,1
+323,Burdekin Haughton,3,4,4,3,4,4,4,0,4,3,1
+324,Barker Barambah,5,5,0,5,0,4,5,4,4,5,3
+325,Bundaberg,5,0,0,5,0,5,5,0,5,4,0
+326,Macintyre Brook,4,4,1,4,0,1,1,2,4,3,0
+327,Upper Condamine,5,5,0,5,0,5,5,0,5,5,3
+328,Lower Mary River,5,0,0,5,0,0,5,0,5,5,0
+329,Upper Burnett,3,0,3,0,0,0,3,0,0,3,2
+330,Nogoa Mackenzie,4,0,4,3,0,4,4,4,4,4,1
+331,Mareeba Dimbulah,3,3,3,3,2,2,2,3,3,3,2
+332,Mareeba Dimbulah,5,5,5,5,0,5,5,5,5,5,3
+333,Bundaberg,4,4,4,4,0,4,4,0,4,3,0
+334,Mareeba Dimbulah,4,4,4,5,4,4,4,4,4,4,1
+335,Nogoa Mackenzie,5,0,5,5,5,5,5,0,5,5,3
+336,Bundaberg,3,0,4,4,0,3,4,4,4,3,0
+337,Burdekin Haughton,3,3,3,2,0,2,3,2,3,3,2
+338,Bundaberg,4,4,4,4,4,4,4,4,4,4,1
+339,Nogoa Mackenzie,3,3,3,3,3,2,3,3,3,3,2
+340,Bundaberg,4,4,5,4,0,4,4,4,5,4,1
+341,Burdekin Haughton,4,5,0,4,0,4,4,4,5,5,0
+342,Dawson Valley,4,0,0,4,0,0,4,0,0,4,0
+343,Mareeba Dimbulah,4,3,4,4,3,4,4,4,4,4,1
+344,Dawson Valley,3,4,0,2,0,4,4,0,4,3,0
+345,Eton,5,5,5,5,5,5,5,5,5,5,3
+346,Bundaberg,3,0,0,4,0,4,3,3,4,4,0
+347,Burdekin Haughton,3,4,3,4,3,3,4,4,4,4,1
+348,Callide Valley,3,0,0,2,0,2,2,2,2,2,0
+349,Bundaberg,4,0,3,3,0,2,0,3,4,4,0
+350,Mareeba Dimbulah,4,4,4,4,4,4,3,4,4,4,1
+351,Bundaberg,5,5,4,4,4,4,5,5,5,5,3
+352,Barker Barambah,3,3,0,3,3,3,1,1,2,3,2
+353,Burdekin Haughton,4,0,0,0,0,3,0,0,5,4,0
+354,Boyne River and Tarong,4,4,4,4,4,4,4,4,5,4,1
+355,Burdekin Haughton,4,0,0,3,0,0,0,0,3,3,0
+356,Boyne River and Tarong,4,0,0,5,0,0,5,0,4,5,0
+357,Mareeba Dimbulah,3,1,0,5,0,5,2,0,0,2,0
+358,Burdekin Haughton,2,0,0,2,0,0,1,5,1,2,0
+359,Mareeba Dimbulah,4,0,0,5,0,0,5,0,5,5,0
+360,Eton,3,4,4,5,3,2,4,4,4,3,1
+361,Pioneer River,3,5,3,3,0,4,5,5,5,5,3
+362,Bundaberg,4,0,0,4,0,0,0,4,4,4,0
+363,Bundaberg,5,4,0,5,0,5,5,5,5,4,3
+364,Nogoa Mackenzie,5,0,0,5,0,5,5,5,5,5,3
+365,Lower Mary River,4,0,0,4,4,4,4,4,4,4,1
+366,Lower Mary River,5,0,0,5,0,0,5,0,5,5,0
+367,Lower Mary River,4,4,0,3,0,0,3,3,3,4,0
+368,Eton,2,0,0,3,0,1,0,1,2,1,0
+369,Burdekin Haughton,4,5,0,5,0,4,4,4,4,4,0
+370,Callide Valley,4,0,0,0,0,0,0,0,0,4,0
+371,Mareeba Dimbulah,3,0,0,4,0,0,3,3,3,3,2
+372,Burdekin Haughton,4,0,3,1,3,3,4,3,3,4,0
+373,Mareeba Dimbulah,3,4,4,3,3,3,3,3,3,3,2
+374,Mareeba Dimbulah,3,0,5,0,0,0,3,2,3,2,2
+375,Upper Burnett,4,0,5,4,0,0,5,0,0,4,0
+376,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,4,1
+377,Mareeba Dimbulah,4,4,4,4,3,3,4,0,4,4,1
+378,Lower Fitzroy,4,0,0,4,0,0,4,0,3,2,0
+379,Bundaberg,3,0,4,4,0,3,5,3,3,3,2
+380,Upper Condamine,3,4,3,3,0,0,3,3,3,3,2
+381,Nogoa Mackenzie,4,0,0,2,4,0,4,0,4,4,0
+382,Macintyre Brook,3,3,3,3,3,3,2,0,3,3,2
+383,Burdekin Haughton,2,1,1,1,0,0,4,1,3,3,0
+384,Mareeba Dimbulah,5,0,0,5,0,5,5,5,5,5,3
+385,Callide Valley,3,3,3,4,3,3,3,3,3,3,2
+386,Barker Barambah,4,0,0,0,0,0,0,0,4,4,0
+387,Mareeba Dimbulah,4,4,4,4,0,3,4,4,4,4,1
+388,Mareeba Dimbulah,5,0,0,5,0,0,4,0,5,4,0
+389,Bundaberg,4,0,3,3,3,3,5,0,4,4,0
+390,Barker Barambah,3,5,5,5,0,1,5,4,5,5,3
+391,St George,1,3,3,3,2,1,2,1,1,1,2
+392,Mareeba Dimbulah,5,5,0,5,0,5,5,5,5,5,3
+393,Bundaberg,4,4,4,5,4,4,5,5,5,4,1
+394,Upper Burnett,1,0,0,3,2,1,2,1,1,1,0
+395,Nogoa Mackenzie,4,3,3,4,3,3,4,3,4,4,0
+396,Burdekin Haughton,4,4,4,4,4,3,4,4,4,3,1
+397,Mareeba Dimbulah,4,0,0,4,0,0,4,4,4,4,0
+398,Barker Barambah,4,4,4,4,4,4,4,4,4,4,1
+399,Nogoa Mackenzie,5,5,4,4,4,4,4,4,4,4,1
+400,Dawson Valley,4,0,5,5,4,4,5,0,5,4,0
+401,Bundaberg,3,4,3,5,0,3,5,4,4,4,0
+402,Chinchilla Weir,5,5,5,5,0,4,4,4,5,5,3
+403,Mareeba Dimbulah,4,3,0,3,1,2,4,3,3,3,2
+404,Bundaberg,4,0,5,5,4,0,5,5,5,4,3
+405,Mareeba Dimbulah,5,5,5,4,4,4,4,4,4,5,1
+406,Upper Condamine,2,0,3,4,0,4,4,4,3,2,0
+407,Callide Valley,3,0,0,3,3,0,4,0,4,3,0
+408,Mareeba Dimbulah,3,4,4,3,0,0,4,0,2,2,0
+409,Callide Valley,3,0,4,4,0,0,0,0,0,3,0
+410,Bundaberg,4,0,4,4,0,4,4,4,4,4,0
+411,Bundaberg,5,5,5,5,2,5,5,5,5,5,3
+412,Mareeba Dimbulah,4,5,5,5,0,3,4,4,4,5,1
+413,Burdekin Haughton,4,4,4,4,4,4,0,4,4,4,1
+414,Boyne River and Tarong,4,0,0,3,0,0,0,0,2,5,0
+415,Mareeba Dimbulah,3,4,0,0,0,0,3,3,3,3,2
+416,Mareeba Dimbulah,4,4,4,4,4,4,5,4,4,5,1
+417,Bundaberg,4,4,4,4,4,4,5,4,4,4,1
+418,Eton,3,0,0,2,0,2,3,3,3,2,2
+419,Mareeba Dimbulah,5,5,4,5,5,5,5,4,4,4,3
+420,Mareeba Dimbulah,4,5,4,5,4,5,5,4,5,4,1
+421,Bundaberg,3,4,0,4,0,3,5,0,4,4,0
+422,Bundaberg,3,0,0,4,0,0,4,4,0,3,0
+423,Barker Barambah,4,4,4,4,4,4,5,4,5,4,1
+424,Bundaberg,3,0,3,1,0,0,4,0,2,3,0
+425,Chinchilla Weir,4,4,4,0,0,4,4,4,4,4,1
+426,Mareeba Dimbulah,4,0,3,3,0,0,3,0,3,3,2
+427,Barker Barambah,3,3,0,3,0,3,3,3,3,3,2
+428,Bundaberg,4,0,0,4,0,0,4,0,4,4,0
+429,Callide Valley,2,0,3,3,2,1,3,2,1,2,2
+430,Callide Valley,2,0,3,3,2,1,3,1,2,2,2
+431,Nogoa Mackenzie,3,5,5,5,0,0,0,4,4,4,0
+432,Mareeba Dimbulah,5,5,5,5,0,0,4,0,4,4,0
+433,Mareeba Dimbulah,2,0,0,4,4,0,4,0,4,1,0
+434,Mareeba Dimbulah,4,3,3,4,3,3,3,4,4,4,1
+435,Bundaberg,3,0,0,3,0,1,4,3,4,3,0
+436,Proserpine River,4,3,4,4,0,4,4,3,4,4,1
+437,Mareeba Dimbulah,4,3,4,2,4,4,2,3,3,3,1
+438,Bundaberg,4,0,0,4,4,3,4,4,4,3,0
+439,Mareeba Dimbulah,3,0,0,4,0,0,4,0,3,4,0
+440,Bundaberg,4,4,4,5,3,4,4,4,4,4,1
+441,Barker Barambah,3,0,0,3,0,3,0,0,3,3,2
+442,Mareeba Dimbulah,1,3,0,2,3,3,5,4,3,2,2
+443,Mareeba Dimbulah,4,3,4,4,4,3,3,3,4,4,1
+444,Mareeba Dimbulah,4,4,3,4,2,2,4,2,4,3,1
+445,Lower Mary River,5,0,5,5,0,5,5,0,5,5,3
+446,Eton,4,0,0,3,0,0,3,0,0,3,0
+447,Bundaberg,4,0,0,4,4,4,5,4,5,4,0
+448,Callide Valley,3,0,0,3,3,0,3,3,3,3,2
+449,Eton,4,4,0,4,0,4,5,4,5,5,1
+450,Proserpine River,4,4,4,4,4,4,4,4,4,4,1
+451,Chinchilla Weir,4,0,0,0,0,0,4,4,4,3,0
+452,Barker Barambah,5,0,0,5,5,5,0,0,5,5,3
+453,Mareeba Dimbulah,3,0,3,4,3,3,4,3,3,3,2
+454,Mareeba Dimbulah,3,4,0,4,0,5,5,4,4,5,1
+455,Mareeba Dimbulah,5,0,0,4,0,0,4,0,4,4,0
+456,Barker Barambah,2,1,1,1,1,1,1,1,1,2,0
+457,Burdekin Haughton,4,4,0,4,4,4,4,4,4,4,1
+458,Burdekin Haughton,4,4,0,4,4,4,4,4,4,4,1
+459,Callide Valley,4,0,0,5,5,0,5,5,5,5,3
+460,Burdekin Haughton,4,0,0,4,0,4,4,4,3,4,0
+461,Bundaberg,3,3,4,3,3,3,4,0,3,3,2
+462,Bundaberg,4,0,0,5,0,0,5,0,5,5,0
+463,Burdekin Haughton,3,0,0,3,0,0,0,0,3,3,0
+464,Mareeba Dimbulah,5,4,0,4,0,4,4,0,4,4,0
+465,Burdekin Haughton,5,0,4,4,4,4,0,0,4,5,1
+466,Burdekin Haughton,4,0,0,4,0,0,0,0,3,3,0
+467,Upper Condamine,4,5,4,4,0,4,4,4,4,4,1
+468,Macintyre Brook,5,4,0,4,4,4,4,4,5,5,1
+469,Proserpine River,5,4,4,4,4,4,4,4,4,4,1
+470,Nogoa Mackenzie,4,4,4,4,4,3,5,4,3,4,1
+471,Callide Valley,4,3,3,3,3,3,3,3,3,4,2
+472,Burdekin Haughton,2,3,2,2,3,2,3,2,3,2,2
+473,Eton,2,2,0,2,0,2,4,1,2,2,0
+474,Upper Burnett,4,3,4,4,3,3,4,3,4,4,1
+475,Bundaberg,5,0,0,4,4,0,0,0,5,5,0
+476,Mareeba Dimbulah,4,0,4,0,0,4,5,4,4,4,1
+477,Burdekin Haughton,4,4,4,4,0,3,4,0,3,4,0
+478,Mareeba Dimbulah,3,4,4,4,0,0,4,0,4,4,0
+479,Bundaberg,5,0,0,5,0,5,5,5,5,4,3
+480,Callide Valley,1,3,3,0,3,2,3,0,2,1,2
+481,Bundaberg,5,0,5,5,0,0,5,3,5,5,3
+482,Bundaberg,5,0,0,4,0,0,5,5,5,4,0
+483,Macintyre Brook,4,3,4,3,0,5,4,3,5,3,2
+484,Callide Valley,3,0,3,3,0,3,2,2,3,3,2
+485,Bundaberg,4,4,4,4,4,4,5,0,4,4,1
+486,Mareeba Dimbulah,3,0,0,3,0,0,0,0,3,3,2
+487,Mareeba Dimbulah,4,0,0,4,0,0,4,0,4,4,0
+488,Lower Mary River,4,0,3,3,3,2,3,3,3,4,2
+489,Boyne River and Tarong,4,3,4,4,4,3,4,4,4,4,1
+490,Barker Barambah,4,3,0,4,3,0,4,4,3,4,0
+491,Callide Valley,1,0,5,3,0,0,3,0,3,5,0
+492,Mareeba Dimbulah,3,0,3,4,0,0,0,0,0,3,0
+493,Mareeba Dimbulah,4,4,0,3,0,3,4,4,4,4,1
+494,Upper Burnett,5,4,4,5,0,4,0,0,5,5,3
+495,Lower Mary River,3,0,0,4,0,3,4,4,4,3,0
+496,Nogoa Mackenzie,4,4,4,4,4,4,4,4,4,4,1
+497,Mareeba Dimbulah,3,0,0,0,0,0,4,0,4,4,0
+498,Upper Condamine,4,4,4,4,4,4,4,4,4,4,1
+499,Bundaberg,4,0,4,4,0,3,4,3,4,4,0
+500,Barker Barambah,3,3,3,3,0,1,3,2,3,2,2
+501,Nogoa Mackenzie,4,0,0,4,4,4,0,0,5,4,0
+502,Bundaberg,5,0,0,4,0,0,1,0,5,4,0
+503,Mareeba Dimbulah,5,0,0,4,5,5,0,0,5,5,3
+504,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+505,Nogoa Mackenzie,5,4,4,3,0,3,3,0,5,5,2
+506,Burdekin Haughton,2,3,0,3,0,3,3,2,3,3,2
+507,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+508,Bundaberg,4,0,0,4,0,3,3,0,0,4,0
+509,Nogoa Mackenzie,2,0,2,2,0,1,1,1,3,2,0
+510,Callide Valley,4,4,0,4,0,0,4,0,5,4,0
+511,Nogoa Mackenzie,5,5,5,5,5,5,5,5,5,5,3
+512,St George,3,0,0,3,0,0,4,3,3,4,0
+513,Boyne River and Tarong,4,0,0,3,0,3,3,3,4,3,2
+514,Mareeba Dimbulah,3,0,2,1,0,4,4,3,3,3,2
+515,Mareeba Dimbulah,3,0,0,0,3,2,3,3,3,2,2
+516,Bundaberg,4,0,5,5,5,1,5,5,5,3,3
+517,St George,4,4,4,4,0,0,4,4,4,4,1
+518,Mareeba Dimbulah,3,4,4,4,4,3,4,4,4,3,1
+519,Burdekin Haughton,2,2,2,2,1,1,2,1,1,1,0
+520,Bundaberg,5,4,5,5,4,5,5,4,5,5,3
+521,Bundaberg,2,0,2,3,0,2,3,1,1,3,2
+522,Proserpine River,2,3,2,3,1,1,3,1,1,2,2
+523,Bundaberg,4,0,4,4,0,3,3,4,4,4,0
+524,Bundaberg,4,4,4,4,5,5,5,4,5,5,3
+525,St George,4,4,4,4,4,4,4,4,4,4,1
+526,Burdekin Haughton,3,1,0,3,0,1,3,3,3,3,2
+527,Nogoa Mackenzie,4,0,0,4,0,4,4,4,4,4,0
+528,Bundaberg,4,0,4,3,0,3,4,4,4,3,0
+529,Bundaberg,3,3,3,1,3,3,4,1,3,3,2
+530,Mareeba Dimbulah,4,5,5,5,0,4,4,4,5,5,1
+531,Mareeba Dimbulah,2,0,4,5,0,0,5,2,3,3,2
+532,Burdekin Haughton,5,0,4,4,0,0,5,0,5,5,0
+533,Proserpine River,4,3,4,4,4,4,4,4,4,5,1
+534,Boyne River and Tarong,4,4,0,4,0,0,3,0,4,3,0
+535,Boyne River and Tarong,3,0,0,4,0,0,2,0,3,3,0
+536,Macintyre Brook,4,4,4,4,0,4,2,0,4,4,1
+537,Boyne River and Tarong,2,0,0,3,0,0,3,0,2,3,0
+538,Bundaberg,4,0,4,4,3,3,4,3,3,3,0
+539,Proserpine River,3,3,4,3,4,3,3,3,4,3,2
+540,Mareeba Dimbulah,2,3,3,3,3,2,4,0,1,2,2
+541,Mareeba Dimbulah,3,0,0,4,4,0,0,0,0,4,0
+542,Burdekin Haughton,4,0,0,4,4,3,0,0,4,4,0
+543,Upper Burnett,5,5,5,5,0,0,0,0,0,4,0
+544,Lower Mary River,4,0,0,4,0,0,0,4,4,4,0
+545,Bundaberg,4,4,4,4,4,4,4,4,4,4,1
+546,Callide Valley,1,0,3,3,0,1,3,1,1,1,2
+547,Dawson Valley,2,3,2,3,3,2,5,1,2,2,2
+548,Bundaberg,5,0,5,4,0,4,5,4,4,4,0
+549,Upper Burnett,4,0,5,4,0,3,4,4,4,4,0
+550,Bundaberg,4,4,4,4,4,4,5,3,4,4,1
+551,Burdekin Haughton,4,4,4,4,4,4,5,4,4,3,1
+552,Eton,1,0,0,1,0,1,3,2,2,2,0
+553,Boyne River and Tarong,3,3,3,3,3,3,4,3,3,3,2
+554,Bundaberg,3,0,0,4,0,4,4,0,4,4,0
+555,Mareeba Dimbulah,1,1,1,1,0,0,1,0,1,1,0
+556,Eton,3,0,0,3,3,3,4,3,3,3,2
+557,Barker Barambah,3,4,4,4,0,4,2,4,4,4,1
+558,Burdekin Haughton,3,0,0,3,0,2,3,0,0,3,2
+559,Mareeba Dimbulah,4,0,0,0,0,0,4,0,4,4,0
+560,St George,3,0,0,0,0,3,4,0,4,3,0
+561,Bundaberg,3,3,4,4,0,2,3,2,2,4,0
+562,Boyne River and Tarong,2,0,3,4,3,2,3,2,2,2,0
+563,Dawson Valley,4,4,5,4,4,4,5,4,4,4,1
+564,Mareeba Dimbulah,4,0,0,4,0,0,2,0,3,3,0
+565,Upper Burnett,4,0,4,5,3,3,3,3,3,3,2
+566,Bundaberg,4,0,0,4,0,0,4,4,5,4,0
+567,Macintyre Brook,3,2,2,2,3,3,3,3,3,3,2
+568,Bundaberg,4,4,3,5,5,3,5,4,5,5,3
+569,St George,4,0,4,4,3,4,5,4,5,4,1
+570,Bundaberg,4,4,4,4,4,3,4,4,4,4,1
+571,Barker Barambah,3,3,4,3,3,3,4,3,3,4,2
+572,Mareeba Dimbulah,4,4,0,4,0,3,4,4,4,4,1
+573,Burdekin Haughton,2,2,2,3,0,1,3,1,1,2,2
+574,Dawson Valley,3,2,3,4,3,3,4,3,3,3,2
+575,Dawson Valley,3,4,0,3,3,3,4,2,4,4,0
+576,Mareeba Dimbulah,4,4,0,4,0,5,0,0,4,4,0
+577,Mareeba Dimbulah,3,0,0,3,0,0,3,0,0,2,0
+578,Eton,3,0,0,4,0,4,4,3,4,4,0
+579,Burdekin Haughton,4,4,4,4,4,4,4,4,4,4,1
+580,Burdekin Haughton,3,4,0,4,4,0,4,2,4,3,0
+581,St George,1,3,0,5,0,0,5,0,4,3,0
+582,Upper Condamine,3,3,4,3,3,3,4,3,4,4,2
+583,Mareeba Dimbulah,1,4,0,4,4,3,4,4,1,3,1
+584,Boyne River and Tarong,2,0,0,4,0,3,3,1,1,1,0
+585,Mareeba Dimbulah,4,5,0,4,0,0,4,0,4,4,0
+586,Bundaberg,4,5,5,5,5,5,5,5,5,5,3
+587,Bundaberg,4,5,0,4,0,0,5,5,5,5,0
+588,Upper Burnett,2,3,3,2,2,2,0,0,1,2,2
+589,Barker Barambah,1,3,3,4,3,1,4,3,3,3,2
+590,Mareeba Dimbulah,3,3,3,3,3,3,2,3,4,4,2
+591,Bundaberg,4,4,5,4,4,4,5,4,4,4,1
+592,Bundaberg,2,2,2,2,2,1,3,4,2,3,2
+593,Nogoa Mackenzie,3,3,3,3,3,3,3,3,3,3,2
+594,Upper Condamine,4,4,4,4,4,4,4,3,4,4,1
+595,Burdekin Haughton,4,4,2,3,3,2,4,3,4,3,1
+596,Proserpine River,3,4,0,3,3,2,3,2,3,3,2
+597,Lower Fitzroy,4,3,0,4,3,3,5,4,3,3,2
+598,Eton,4,4,0,4,4,4,4,3,4,4,1
+599,Mareeba Dimbulah,4,4,0,4,5,4,0,0,5,5,1
+600,Bundaberg,4,3,3,3,0,3,3,3,4,3,2
+601,Burdekin Haughton,4,4,0,4,4,4,4,4,4,3,1
+602,Burdekin Haughton,4,0,5,5,5,5,5,5,5,5,3
+603,Burdekin Haughton,4,4,4,4,0,0,4,3,3,4,0
+604,Nogoa Mackenzie,4,0,0,4,0,4,4,4,0,4,0
+605,Bundaberg,4,0,5,4,0,0,5,4,5,5,0
+606,Bundaberg,4,0,4,4,0,4,3,0,4,3,0
+607,Barker Barambah,3,0,0,3,0,0,0,2,2,2,0
+608,Callide Valley,3,3,4,4,0,3,3,3,3,3,2
+609,Macintyre Brook,4,0,4,4,4,0,4,4,4,4,1
+610,Callide Valley,4,0,0,4,0,0,0,0,3,3,0
+611,Chinchilla Weir,4,4,4,4,4,3,4,4,4,4,1
+612,Burdekin Haughton,3,4,3,2,3,4,4,3,2,2,1
+613,Bundaberg,4,0,0,4,0,0,5,5,5,4,0
+614,Burdekin Haughton,3,3,0,3,0,3,3,3,3,3,2
+615,Mareeba Dimbulah,4,4,4,4,0,3,4,4,4,4,1
+616,Macintyre Brook,4,5,5,4,4,4,5,5,5,4,1
+617,Boyne River and Tarong,4,0,0,4,4,0,3,3,4,5,0
+618,Upper Burnett,4,3,0,3,0,3,4,3,3,3,2
+619,Bundaberg,4,0,0,5,0,0,5,0,5,5,0
+620,Upper Burnett,4,4,4,4,4,4,4,4,4,4,1
+621,Bundaberg,3,0,0,2,0,1,4,3,3,3,0
+622,Bundaberg,4,5,5,5,5,4,5,5,5,5,3
+623,Bundaberg,4,4,4,4,4,4,5,4,4,4,1
+624,St George,4,0,0,0,0,0,4,4,4,4,0
+625,Proserpine River,3,3,0,0,3,3,3,0,3,3,2
+626,Mareeba Dimbulah,4,0,0,4,0,0,4,0,0,4,0
+627,Bundaberg,4,0,0,5,0,5,5,0,0,4,0
+628,Burdekin Haughton,4,0,0,4,4,4,4,0,3,3,0
+629,Nogoa Mackenzie,2,0,3,3,0,3,2,0,3,3,2
+630,Nogoa Mackenzie,4,4,4,4,4,4,4,4,4,4,1
+631,Nogoa Mackenzie,4,4,5,4,4,4,4,3,5,5,1
+632,Mareeba Dimbulah,4,0,0,4,0,0,4,0,3,3,0
+633,Upper Burnett,4,5,5,5,5,5,5,5,5,5,3
+634,Burdekin Haughton,1,0,0,5,0,0,5,5,5,5,3
+635,Bundaberg,3,0,0,4,0,0,3,3,3,3,0
+636,Macintyre Brook,4,4,3,4,3,4,4,4,4,4,1
+637,Bundaberg,4,4,4,0,0,4,4,4,4,3,1
+638,Proserpine River,4,4,5,5,5,4,5,5,5,4,3
+639,Bundaberg,1,0,1,1,1,1,3,1,3,1,0
+640,Bundaberg,3,4,0,4,0,0,4,3,0,3,0
+641,Mareeba Dimbulah,4,3,4,3,0,2,4,3,3,3,2
+642,Dawson Valley,4,4,4,4,4,4,0,0,3,4,1
+643,Chinchilla Weir,4,0,0,4,0,0,0,0,0,4,0
+644,Callide Valley,3,0,3,3,3,3,3,2,2,3,2
+645,Bundaberg,4,5,4,4,4,0,4,5,5,5,0
+646,Three Moon Creek,3,0,0,3,0,1,4,0,0,3,0
+647,Bundaberg,4,4,5,4,5,4,4,4,4,4,1
+648,Three Moon Creek,3,0,0,3,3,3,4,3,3,3,2
+649,Three Moon Creek,4,0,0,4,3,3,4,4,5,5,0
+650,Mareeba Dimbulah,3,1,3,5,0,0,4,0,4,3,0
+651,Upper Burnett,4,0,0,5,4,0,0,0,4,4,0
+652,Mareeba Dimbulah,4,3,4,4,4,3,4,4,4,4,1
+653,Eton,4,4,0,4,0,4,4,4,4,3,1
+654,Nogoa Mackenzie,4,4,4,4,4,4,5,4,5,5,1
+655,Bundaberg,4,3,3,3,0,3,4,4,4,4,0
+656,Mareeba Dimbulah,4,0,5,4,4,3,4,4,4,4,1
+657,Mareeba Dimbulah,4,0,4,4,0,4,4,4,4,4,1
+658,Mareeba Dimbulah,4,0,0,4,0,0,4,0,5,3,0
+659,Burdekin Haughton,3,4,0,3,0,3,4,3,3,3,2
+660,Macintyre Brook,1,1,1,3,3,1,5,1,2,2,2
+661,Burdekin Haughton,3,3,3,3,3,3,4,3,2,3,2
+662,Bundaberg,3,0,0,3,0,0,4,0,3,3,0
+663,Burdekin Haughton,4,4,0,4,0,0,0,0,4,4,0
+664,Boyne River and Tarong,3,0,0,3,0,0,5,0,3,4,0
+665,Macintyre Brook,4,4,0,4,4,4,4,4,4,5,1
+666,Bundaberg,4,3,4,4,0,3,5,4,4,4,0
+667,Mareeba Dimbulah,3,3,4,4,4,4,4,3,3,3,1
+668,Nogoa Mackenzie,3,0,0,3,0,3,3,0,5,3,2
+669,Mareeba Dimbulah,4,0,3,4,0,0,2,0,4,4,0
+670,Mareeba Dimbulah,4,5,5,5,5,5,5,5,5,5,3
+671,Dawson Valley,3,3,4,3,3,4,4,3,4,4,1
+672,Bundaberg,4,0,0,5,0,0,5,0,5,5,0
+673,Mareeba Dimbulah,4,4,4,4,4,4,5,4,5,4,1
+674,Eton,4,0,0,4,4,4,4,4,4,5,1
+675,Bundaberg,4,0,0,4,4,4,4,4,4,4,0
+676,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,4,1
+677,Nogoa Mackenzie,4,0,0,5,2,2,5,4,5,4,0
+678,Eton,3,4,3,3,2,2,2,3,3,2,2
+679,Mareeba Dimbulah,3,0,4,3,0,0,3,3,2,3,2
+680,Bundaberg,4,0,0,5,0,0,0,0,5,5,0
+681,Mareeba Dimbulah,4,5,4,4,5,5,5,5,5,4,3
+682,Upper Burnett,4,0,0,4,0,0,0,0,3,3,0
+683,Dawson Valley,4,4,4,4,4,4,5,4,4,4,1
+684,St George,3,0,0,4,0,0,4,0,3,3,0
+685,Bundaberg,2,1,1,1,1,1,1,1,1,2,0
+686,Eton,3,2,0,4,0,1,4,1,1,2,0
+687,Mareeba Dimbulah,4,0,0,5,0,0,0,0,5,5,0
+688,Eton,2,3,0,3,0,2,5,2,3,3,2
+689,Bundaberg,4,0,0,4,0,4,4,4,4,4,0
+690,Upper Burnett,4,0,5,5,0,0,0,0,5,4,0
+691,Mareeba Dimbulah,4,4,4,4,2,2,4,4,4,4,1
+692,Mareeba Dimbulah,4,0,0,4,0,0,4,4,4,4,0
+693,Upper Burnett,4,0,4,4,0,0,4,0,4,4,0
+694,Bundaberg,4,0,5,5,0,5,5,0,5,5,3
+695,Lower Fitzroy,4,0,0,0,0,0,0,0,0,4,0
+696,Eton,1,2,1,1,1,1,3,1,2,1,2
+697,Nogoa Mackenzie,4,0,0,4,0,0,5,0,5,5,0
+698,Bowen Broken Rivers,4,4,0,4,4,4,4,4,5,4,1
+699,Bundaberg,4,0,0,4,0,0,4,0,4,4,0
+700,Nogoa Mackenzie,4,4,4,5,0,0,5,4,5,5,1
+701,Bundaberg,4,4,0,5,0,4,5,4,4,4,0
+702,Mareeba Dimbulah,3,0,0,0,0,0,3,0,3,3,2
+703,Nogoa Mackenzie,4,4,4,4,4,4,4,4,4,4,1
+704,Nogoa Mackenzie,4,5,5,5,0,4,5,0,5,4,3
+705,Nogoa Mackenzie,3,0,3,4,0,3,5,3,4,4,0
+706,Mareeba Dimbulah,4,3,0,3,3,4,4,4,4,4,1
+707,Burdekin Haughton,1,2,0,3,1,1,3,1,0,1,2
+708,Macintyre Brook,4,0,4,4,0,0,3,3,3,4,0
+709,Mareeba Dimbulah,3,3,0,4,2,3,1,0,4,2,0
+710,Burdekin Haughton,4,4,0,4,4,0,4,4,4,4,1
+711,Mareeba Dimbulah,4,3,3,3,3,3,3,3,3,3,2
+712,Bundaberg,4,0,0,3,0,0,4,0,4,5,0
+713,Lower Mary River,4,0,2,4,4,4,5,5,4,4,1
+714,Burdekin Haughton,4,4,4,4,4,4,4,4,4,4,1
+715,Bundaberg,4,0,0,3,3,3,3,3,0,4,0
+716,Nogoa Mackenzie,4,0,0,4,4,4,4,4,4,4,1
+717,Mareeba Dimbulah,2,1,1,1,0,0,1,1,1,1,0
+718,Dawson Valley,4,3,3,4,3,2,2,2,3,2,2
+719,Bundaberg,3,0,4,2,0,2,3,3,2,3,2
+720,Mareeba Dimbulah,4,0,0,4,0,3,0,3,4,4,0
+721,Barker Barambah,4,4,4,4,0,2,4,3,4,5,1
+722,Mareeba Dimbulah,3,0,1,4,0,2,3,3,4,4,0
+723,Mareeba Dimbulah,3,0,0,3,0,3,3,0,3,3,2
+724,Macintyre Brook,4,4,4,4,5,5,4,4,5,5,1
+725,Burdekin Haughton,4,5,5,5,5,3,5,5,5,4,3
+726,Mareeba Dimbulah,1,1,1,1,1,1,1,1,1,2,1
+727,Julius Dam,4,0,0,4,0,0,0,0,0,4,0
+728,Bundaberg,3,0,0,4,0,0,4,0,0,4,0
+729,Eton,4,4,0,4,0,0,4,4,4,5,0
+730,Burdekin Haughton,4,4,5,5,4,3,3,3,4,3,1
+731,Bundaberg,4,0,0,4,0,0,4,0,4,4,0
+732,Mareeba Dimbulah,2,4,3,5,1,0,4,4,0,1,1
+733,Macintyre Brook,4,4,4,4,4,4,4,4,4,4,1
+734,Burdekin Haughton,3,0,0,4,0,0,0,3,3,2,0
+735,Mareeba Dimbulah,4,4,4,4,2,3,5,4,3,4,1
+736,Bundaberg,3,0,0,4,4,4,4,4,3,3,0
+737,Callide Valley,3,5,4,4,0,5,0,0,5,4,0
+738,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+739,Lower Fitzroy,3,0,0,3,0,0,3,3,1,2,2
+740,Mareeba Dimbulah,4,4,5,4,0,3,5,4,4,5,1
+741,Mareeba Dimbulah,3,3,3,5,3,3,3,3,3,3,2
+742,Pioneer River,4,0,0,4,0,0,0,0,4,4,0
+743,St George,4,4,4,4,4,4,4,4,4,4,1
+744,Three Moon Creek,4,0,4,4,0,4,0,0,4,4,0
+745,Lower Mary River,4,0,0,5,0,0,5,0,5,5,0
+746,Bundaberg,4,5,5,5,5,5,5,5,5,4,3
+747,Bundaberg,3,3,4,4,3,2,3,3,3,3,2
+748,Dawson Valley,4,4,4,4,4,3,4,4,5,4,1
+749,Eton,3,4,0,3,0,0,3,0,0,4,0
+750,Boyne River and Tarong,1,0,0,4,0,4,4,4,4,4,0
+751,Boyne River and Tarong,4,0,0,5,0,0,4,0,3,4,0
+752,Bundaberg,4,0,0,5,0,0,5,0,5,4,0
+753,Nogoa Mackenzie,4,4,4,3,0,3,0,0,3,4,0
+754,Bundaberg,4,4,4,4,4,3,4,4,4,4,1
+755,Eton,2,2,1,1,0,2,3,0,1,2,0
+756,Cunnamulla,4,0,0,4,0,0,4,4,4,4,0
+757,Mareeba Dimbulah,4,5,5,5,4,4,5,4,5,4,1
+758,Upper Condamine,4,4,4,4,4,4,4,4,4,4,1
+759,Upper Burnett,3,0,0,5,0,3,0,0,3,3,2
+760,Barker Barambah,3,0,0,2,0,0,4,0,3,2,0
+761,Bundaberg,4,0,4,4,0,4,4,4,4,4,0
+762,Lower Mary River,4,4,0,5,0,0,4,4,4,4,0
+763,Callide Valley,4,4,4,4,0,4,4,0,5,5,1
+764,Mareeba Dimbulah,4,3,5,5,4,3,5,4,4,4,1
+765,Boyne River and Tarong,4,3,4,4,3,3,2,3,3,3,2
+766,Bundaberg,4,5,5,5,5,5,5,5,5,5,3
+767,Nogoa Mackenzie,4,3,4,4,0,3,4,0,3,3,0
+768,Nogoa Mackenzie,3,2,4,3,3,3,4,3,3,3,2
+769,Nogoa Mackenzie,4,0,3,0,0,0,4,0,4,4,0
+770,Bundaberg,4,4,4,4,3,3,5,4,5,4,1
+771,Bundaberg,1,0,4,4,0,2,1,3,5,3,0
+772,St George,1,3,3,3,2,1,2,1,1,1,2
+773,Three Moon Creek,4,3,4,3,0,3,5,3,4,4,2
+774,Bundaberg,4,3,0,3,0,3,3,3,3,3,2
+775,Nogoa Mackenzie,4,5,5,5,5,5,5,5,5,5,3
+776,Lower Mary River,4,0,0,4,0,2,4,4,4,4,0
+777,Nogoa Mackenzie,4,0,5,5,5,5,5,5,5,5,3
+778,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,5,1
+779,Bundaberg,3,3,3,5,3,3,5,4,5,4,2
+780,Lower Mary River,4,4,4,4,4,5,4,4,4,4,1
+781,Nogoa Mackenzie,4,5,5,5,0,3,0,0,3,4,0
+782,Three Moon Creek,4,0,4,4,4,4,4,4,4,4,1
+783,Mareeba Dimbulah,3,4,4,4,4,4,4,4,5,4,1
+784,Callide Valley,3,0,4,0,0,0,0,0,0,3,0
+785,Bundaberg,3,3,3,4,3,3,3,3,3,4,2
+786,Eton,4,0,0,4,0,0,4,4,4,5,0
+787,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+788,Boyne River and Tarong,4,0,0,4,0,0,4,0,5,5,0
+789,Bundaberg,3,4,4,4,0,4,5,4,4,4,1
+790,Bundaberg,3,4,4,3,0,1,1,3,3,2,2
+791,Dawson Valley,4,4,4,4,4,4,4,4,4,3,1
+792,Boyne River and Tarong,4,0,0,4,0,0,4,0,4,4,0
+793,Mareeba Dimbulah,3,4,0,1,0,1,0,0,5,5,0
+794,Mareeba Dimbulah,4,4,4,4,4,3,4,4,4,4,1
+795,Mareeba Dimbulah,1,2,1,1,1,1,3,2,1,2,2
+796,Bundaberg,3,4,0,4,0,3,4,4,4,3,0
+797,Mareeba Dimbulah,1,1,0,1,1,1,1,1,1,1,0
+798,Proserpine River,2,1,0,3,0,2,3,0,1,2,0
+799,Mareeba Dimbulah,3,0,0,3,0,1,3,0,1,2,2
+800,Bundaberg,4,0,4,4,0,2,3,3,4,4,0
+801,Burdekin Haughton,3,3,3,4,1,2,4,3,3,3,2
+802,Mareeba Dimbulah,4,5,4,5,4,3,5,5,4,3,1
+803,Mareeba Dimbulah,4,5,4,4,4,4,4,4,5,4,1
+804,Mareeba Dimbulah,3,4,3,3,3,4,4,3,4,3,2
+805,Bundaberg,3,3,3,3,3,1,4,4,4,4,0
+806,Bundaberg,4,0,5,5,0,0,5,3,5,5,3
+807,Bowen Broken Rivers,3,0,0,2,2,0,4,2,2,2,0
+808,Bundaberg,4,0,4,4,0,4,5,4,4,4,0
+809,Bundaberg,4,3,4,3,3,3,4,4,3,4,1
+810,Bundaberg,3,3,4,4,4,3,4,3,4,3,1
+811,Burdekin Haughton,3,4,4,4,4,4,4,4,3,4,1
+812,Nogoa Mackenzie,4,0,0,5,5,5,5,5,5,4,3
+813,Mareeba Dimbulah,4,5,5,5,0,4,5,4,4,5,1
+814,Upper Burnett,4,5,0,4,4,4,0,4,4,4,1
+815,Callide Valley,2,0,3,4,0,1,2,0,1,1,0
+816,Macintyre Brook,3,0,4,4,4,0,0,0,3,4,0
+817,Bundaberg,4,3,4,4,0,4,5,4,4,4,1
+818,Mareeba Dimbulah,3,0,0,4,0,0,4,4,4,4,0
+819,Eton,3,3,2,2,3,2,3,3,2,3,2
+820,Bundaberg,4,0,4,4,0,5,4,4,5,4,0
+821,Barker Barambah,3,4,0,4,0,0,3,3,4,4,0
+822,Callide Valley,3,4,4,5,0,4,4,0,2,3,1
+823,Mareeba Dimbulah,3,0,3,3,3,2,3,3,3,3,2
+824,Mareeba Dimbulah,4,0,0,4,0,4,4,0,4,5,0
+825,Bundaberg,4,0,0,4,0,3,4,4,4,3,0
+826,Mareeba Dimbulah,4,4,0,4,0,4,5,4,4,4,1
+827,Burdekin Haughton,1,3,3,3,3,1,3,1,2,2,2
+828,Bundaberg,4,4,5,5,4,4,4,4,4,4,1
+829,Mareeba Dimbulah,3,4,0,5,0,3,3,3,5,3,2
+830,Burdekin Haughton,4,0,5,5,0,4,0,0,4,4,0
+831,Bundaberg,4,0,4,4,0,4,5,4,4,4,0
+832,Barker Barambah,3,0,0,4,3,3,0,0,3,3,0
+833,Cunnamulla,2,0,3,1,0,0,3,3,1,3,2
+834,Lower Mary River,4,0,0,4,0,0,5,0,0,4,0
+835,Nogoa Mackenzie,4,3,3,3,4,3,4,4,4,5,1
+836,Mareeba Dimbulah,4,0,0,4,0,0,4,0,5,4,0
+837,Barker Barambah,4,0,3,4,0,3,4,4,4,3,0
+838,Bundaberg,4,0,5,5,0,0,5,0,5,5,0
+839,Macintyre Brook,4,4,4,4,0,4,1,0,4,4,1
+840,Bundaberg,4,0,4,4,0,0,4,4,4,3,0
+841,Bundaberg,4,3,0,4,0,3,4,3,4,4,0
+842,Boyne River and Tarong,4,3,3,3,3,3,3,3,4,3,2
+843,Bundaberg,4,0,0,5,0,0,5,0,5,5,0
+844,Mareeba Dimbulah,3,0,3,4,0,0,0,0,2,2,0
+845,Chinchilla Weir,3,0,0,0,0,0,3,2,2,3,0
+846,Boyne River and Tarong,3,0,0,3,0,3,5,3,3,3,2
+847,Three Moon Creek,1,1,1,1,1,1,1,1,1,2,0
+848,Barker Barambah,3,3,0,3,0,3,4,3,3,3,2
+849,Upper Burnett,1,0,0,3,1,1,3,1,1,1,0
+850,Nogoa Mackenzie,4,4,5,5,5,3,5,0,0,4,3
+851,Burdekin Haughton,4,5,5,5,5,5,5,5,5,5,3
+852,Mareeba Dimbulah,2,3,0,0,0,3,3,3,3,4,2
+853,Macintyre Brook,3,3,3,4,0,0,5,0,5,5,0
+854,Dawson Valley,4,3,4,4,4,4,4,4,4,4,1
+855,Lower Fitzroy,3,0,0,0,0,4,4,4,4,4,0
+856,Eton,3,0,0,3,0,2,5,0,3,5,0
+857,Bundaberg,4,0,4,4,0,4,0,4,4,4,0
+858,Burdekin Haughton,2,1,0,2,2,1,2,0,1,2,0
+859,Burdekin Haughton,4,4,4,4,3,4,4,3,5,3,1
+860,Callide Valley,3,0,4,4,0,2,4,3,2,2,0
+861,Bundaberg,2,0,3,3,0,0,0,0,3,3,0
+862,Bundaberg,4,4,4,3,3,3,4,3,4,4,1
+863,Macintyre Brook,4,5,5,5,5,5,5,5,5,5,3
+864,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,4,1
+865,Bundaberg,4,0,4,4,4,4,5,4,5,4,1
+866,Three Moon Creek,2,0,0,0,3,1,1,1,1,2,0
+867,Upper Burnett,4,0,3,4,4,4,4,4,4,3,1
+868,Mareeba Dimbulah,4,5,5,5,0,4,4,4,4,4,1
+869,Three Moon Creek,4,0,0,4,3,4,4,4,4,4,0
+870,Bundaberg,2,3,4,4,3,4,4,3,4,4,1
+871,Mareeba Dimbulah,2,0,2,4,0,2,1,2,1,2,0
+872,Bundaberg,4,0,5,3,3,1,5,5,4,2,0
+873,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+874,Burdekin Haughton,1,1,3,1,3,1,3,2,1,2,2
+875,Burdekin Haughton,4,3,4,4,0,3,3,3,4,4,0
+876,Nogoa Mackenzie,4,0,5,5,0,0,5,0,5,5,0
+877,Mareeba Dimbulah,3,0,0,4,0,0,0,0,2,2,0
+878,Pioneer River,4,5,0,5,0,5,5,5,5,5,3
+879,Nogoa Mackenzie,4,0,0,5,0,0,5,5,5,5,0
+880,Bundaberg,3,3,3,4,3,3,5,3,3,3,2
+881,Upper Burnett,3,0,0,4,3,2,4,0,2,2,0
+882,Bundaberg,3,0,0,3,0,2,4,2,3,3,0
+883,Burdekin Haughton,4,1,2,3,0,2,3,0,3,3,2
+884,Mareeba Dimbulah,1,1,0,1,0,1,1,1,1,1,0
+885,Mareeba Dimbulah,4,5,4,5,0,0,4,0,3,3,0
+886,Boyne River and Tarong,4,4,4,4,4,3,4,4,4,4,1
+887,Bundaberg,1,0,0,1,0,0,0,0,1,1,0
+888,Mareeba Dimbulah,4,0,0,5,0,0,0,0,4,4,0
+889,Bundaberg,4,0,5,4,0,3,5,3,5,4,0
+890,Burdekin Haughton,4,4,2,4,3,3,4,4,4,4,1
+891,Bundaberg,4,0,0,4,0,0,4,0,4,4,0
+892,Dawson Valley,3,3,3,4,2,2,0,4,3,3,2
+893,Mareeba Dimbulah,4,5,4,4,0,5,0,5,5,4,1
+894,Callide Valley,4,0,4,5,0,4,5,4,5,4,1
+895,Nogoa Mackenzie,4,5,5,5,0,3,5,0,5,5,3
+896,Mareeba Dimbulah,4,4,3,3,0,4,2,3,3,3,2
+897,Nogoa Mackenzie,2,0,0,2,0,0,1,1,1,2,0
+898,Upper Burnett,2,3,3,2,0,0,0,0,1,2,0
+899,Barker Barambah,2,5,5,3,0,3,4,4,1,3,2
+900,St George,4,2,4,4,0,3,4,4,5,4,1
+901,Burdekin Haughton,1,4,0,3,0,0,0,0,1,3,0
+902,Chinchilla Weir,1,0,0,5,0,0,5,5,5,5,3
+903,Burdekin Haughton,4,5,4,5,4,4,3,3,5,4,1
+904,Upper Condamine,4,5,0,5,0,5,0,0,5,4,0
+905,Nogoa Mackenzie,3,2,3,2,0,2,1,1,1,2,2
+906,Bundaberg,2,3,3,4,3,2,4,3,3,3,2
+907,Lower Mary River,4,5,5,5,0,5,0,4,4,5,3
+908,St George,2,4,3,4,2,3,4,0,3,3,2
+909,Upper Condamine,4,4,4,4,4,4,4,4,4,4,1
+910,Bundaberg,4,0,0,4,0,4,5,4,5,4,0
+911,Boyne River and Tarong,3,0,0,3,0,3,3,3,3,3,2
+912,Mareeba Dimbulah,4,3,5,5,0,3,4,3,3,3,2
+913,Macintyre Brook,4,5,4,3,3,4,4,3,4,4,1
+914,Upper Burnett,4,4,4,4,0,4,4,4,4,3,1
+915,Mareeba Dimbulah,4,0,0,4,0,0,0,0,4,4,0
+916,Chinchilla Weir,4,0,4,3,4,0,0,0,4,4,0
+917,Mareeba Dimbulah,3,4,4,4,4,3,4,4,3,3,1
+918,Bundaberg,4,0,0,4,0,4,5,4,4,4,0
+919,Nogoa Mackenzie,3,0,0,0,0,0,0,0,0,3,0
+920,Proserpine River,4,4,0,4,4,4,4,4,4,4,1
+921,Mareeba Dimbulah,4,4,0,4,0,0,5,2,3,3,0
+922,Nogoa Mackenzie,3,0,3,3,0,0,3,0,3,3,2
+923,Upper Condamine,2,3,2,2,0,3,1,2,2,2,2
+924,Eton,4,5,0,4,5,5,0,5,5,5,3
+925,Nogoa Mackenzie,4,4,5,4,4,2,4,4,5,5,1
+926,Lower Mary River,4,4,5,4,0,4,3,4,4,4,1
+927,Callide Valley,4,0,0,2,0,5,3,4,4,3,0
+928,Mareeba Dimbulah,3,3,0,4,4,2,4,2,2,3,1
+929,Bundaberg,3,0,0,4,0,0,4,4,2,3,0
+930,Burdekin Haughton,4,0,0,4,0,0,4,0,4,4,0
+931,Bundaberg,4,5,4,5,0,5,5,5,5,5,3
+932,Lower Mary River,3,0,0,4,0,3,4,4,4,3,0
+933,Bundaberg,4,0,3,4,0,3,3,0,3,3,0
+934,Bundaberg,4,0,3,3,0,3,5,3,5,5,2
+935,Proserpine River,3,2,4,3,0,2,3,3,4,4,2
+936,Mareeba Dimbulah,3,5,5,5,0,3,4,3,3,2,2
+937,Proserpine River,4,4,4,4,4,4,4,4,4,4,1
+938,Upper Burnett,4,0,0,4,3,3,3,3,4,3,0
+939,Burdekin Haughton,2,3,3,3,3,3,3,3,3,3,2
+940,Lower Mary River,4,0,0,4,4,3,5,0,3,4,0
+941,Callide Valley,4,3,0,4,0,0,1,1,3,3,0
+942,Mareeba Dimbulah,3,3,4,4,0,0,3,0,0,3,2
+943,Upper Burnett,4,0,4,4,4,4,4,4,4,3,1
+944,Bundaberg,4,5,0,4,0,0,4,0,5,5,0
+945,Upper Burnett,4,4,4,4,4,4,4,3,4,4,1
+946,Bundaberg,3,0,3,3,0,2,4,0,3,4,0
+947,Burdekin Haughton,4,5,0,3,0,3,5,0,5,5,0
+948,Burdekin Haughton,4,5,0,5,0,5,5,0,5,5,3
+949,Bundaberg,4,4,0,4,0,4,4,4,4,4,0
+950,Dawson Valley,2,3,1,5,0,1,5,1,2,3,2
+951,Mareeba Dimbulah,3,4,5,4,2,0,4,0,2,3,0
+952,Mareeba Dimbulah,4,5,5,5,0,5,5,5,4,4,3
+953,Bundaberg,4,0,0,5,0,0,5,0,0,5,0
+954,Bundaberg,4,0,4,4,0,4,4,4,4,4,0
+955,Bundaberg,3,0,4,4,2,4,4,3,3,4,0
+956,Julius Dam,3,0,0,4,0,2,0,0,4,4,0
+957,Mareeba Dimbulah,3,3,4,4,3,0,1,3,2,2,2
+958,Bundaberg,4,4,0,3,0,3,4,3,4,4,0
+959,Upper Burnett,5,0,0,0,0,5,0,0,5,5,0
+960,Boyne River and Tarong,4,4,0,4,4,0,4,4,4,4,1
+961,Bundaberg,5,0,3,3,0,3,5,3,4,5,2
+962,Bundaberg,1,0,0,0,0,0,0,0,0,3,0
+963,Three Moon Creek,3,0,0,4,3,3,3,3,3,3,2
+964,Burdekin Haughton,4,4,4,4,4,4,4,4,4,4,1
+965,St George,4,2,3,0,0,0,2,0,3,4,0
+966,Bundaberg,3,3,1,3,0,1,4,0,4,4,0
+967,Boyne River and Tarong,5,0,0,4,0,0,4,0,5,5,0
+968,Bundaberg,3,0,0,5,0,2,4,0,3,4,0
+969,Barker Barambah,4,5,5,5,0,5,0,5,5,4,3
+970,Lower Mary River,5,0,0,4,0,0,0,0,0,4,0
+971,Bundaberg,4,5,0,4,0,4,4,4,4,4,0
+972,Dawson Valley,3,3,3,3,0,0,4,0,4,3,2
+973,Bundaberg,4,4,0,4,4,4,3,4,4,4,1
+974,Upper Burnett,3,0,4,4,0,3,4,4,4,3,0
+975,Upper Burnett,3,0,2,4,0,2,3,0,3,3,2
+976,Bundaberg,4,1,4,3,3,3,4,3,4,4,0
+977,Proserpine River,5,5,0,3,0,3,3,0,3,3,2
+978,Burdekin Haughton,4,5,0,4,0,3,0,3,3,4,0
+979,Burdekin Haughton,3,0,0,2,3,1,3,0,0,3,0
+980,Bundaberg,4,0,0,4,0,0,4,0,4,4,0
+981,Burdekin Haughton,4,3,3,3,3,3,3,3,3,4,2
+982,Mareeba Dimbulah,4,4,5,5,5,4,4,4,4,4,1
+983,Bundaberg,5,5,5,5,0,5,5,5,5,4,3
+984,Mareeba Dimbulah,3,4,4,4,2,3,4,2,3,3,1
+985,Mareeba Dimbulah,5,4,0,4,0,4,4,4,4,4,1
+986,Nogoa Mackenzie,5,4,4,4,4,4,4,4,4,5,1
+987,Nogoa Mackenzie,4,0,4,3,0,4,5,4,4,4,1
+988,Eton,4,5,5,4,4,4,5,5,5,4,1
+989,Bundaberg,5,5,4,5,5,5,5,5,5,5,3
+990,Bundaberg,3,3,5,4,0,3,3,3,3,3,2
+991,Burdekin Haughton,4,4,3,3,3,3,4,4,4,4,1
+992,Mareeba Dimbulah,3,0,0,3,0,0,2,0,0,3,0
+993,Bowen Broken Rivers,4,0,1,5,0,5,0,3,4,4,0
+994,Mareeba Dimbulah,4,4,4,4,4,4,0,0,4,4,1
+995,Mareeba Dimbulah,4,5,4,4,0,0,0,0,4,4,0
+996,Proserpine River,5,0,0,0,0,0,0,0,0,4,0
+997,Mareeba Dimbulah,5,0,0,4,4,0,0,0,4,4,0
+998,Bundaberg,3,0,4,3,0,3,3,0,3,3,2
+999,Burdekin Haughton,3,0,0,0,0,0,0,0,0,3,0
+1000,Mareeba Dimbulah,3,0,0,3,3,0,4,0,0,4,0
+1001,Upper Condamine,4,5,5,4,4,4,4,4,4,4,1
+1002,Bundaberg,4,0,0,4,0,0,4,0,4,4,0
+1003,Mareeba Dimbulah,3,3,0,4,0,2,4,2,3,3,2
+1004,Eton,5,4,4,4,4,4,4,4,4,3,1
+1005,Upper Burnett,4,4,4,4,4,4,4,4,4,4,1
+1006,Bowen Broken Rivers,4,0,0,4,0,0,4,0,4,4,0
+1007,Bundaberg,4,4,5,4,4,4,4,4,4,4,1
+1008,Bundaberg,4,5,5,5,0,4,5,5,5,4,3
+1009,Bundaberg,4,0,0,4,0,0,0,0,4,4,0
+1010,Bundaberg,4,0,4,4,0,3,4,4,4,3,0
+1011,Upper Burnett,3,0,0,5,0,3,0,0,2,3,0
+1012,Bundaberg,4,0,0,4,0,4,4,4,4,4,0
+1013,Bundaberg,4,0,4,4,0,3,4,0,4,4,0
+1014,Burdekin Haughton,5,4,4,5,5,4,5,5,5,5,3
+1015,Mareeba Dimbulah,5,5,0,5,0,5,5,0,5,5,3
+1016,Bundaberg,2,0,4,2,0,0,4,4,4,4,0
+1017,Proserpine River,4,0,0,0,0,0,0,0,0,5,0
+1018,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1019,Mareeba Dimbulah,3,0,0,4,0,0,4,3,3,3,0
+1020,Mareeba Dimbulah,3,4,4,4,4,4,4,4,4,3,1
+1021,Mareeba Dimbulah,3,0,0,4,3,0,0,0,4,3,0
+1022,Burdekin Haughton,3,3,3,3,3,3,3,3,3,3,2
+1023,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1024,Chinchilla Weir,5,0,0,0,0,0,0,0,5,5,0
+1025,Dawson Valley,4,0,0,4,4,4,0,0,4,3,0
+1026,Mareeba Dimbulah,2,0,0,3,0,0,0,1,3,4,0
+1027,Bundaberg,3,3,4,3,0,0,4,3,3,3,2
+1028,Burdekin Haughton,5,5,5,5,5,5,5,5,5,5,3
+1029,Eton,5,0,0,5,0,0,5,4,5,4,0
+1030,Callide Valley,3,0,4,5,0,0,5,0,3,3,0
+1031,Mareeba Dimbulah,4,3,2,3,3,3,4,3,3,3,2
+1032,Mareeba Dimbulah,4,4,0,4,4,4,4,4,0,4,1
+1033,St George,3,3,2,3,3,4,4,4,4,3,1
+1034,Bundaberg,2,0,5,5,5,5,3,0,4,5,3
+1035,Nogoa Mackenzie,4,4,4,4,4,4,4,4,4,4,1
+1036,Upper Burnett,4,0,5,5,0,0,5,0,4,4,0
+1037,Nogoa Mackenzie,4,4,4,4,4,4,4,4,4,4,1
+1038,Burdekin Haughton,3,5,4,4,2,3,3,3,4,3,2
+1039,Nogoa Mackenzie,5,4,4,4,4,4,4,4,4,4,1
+1040,Dawson Valley,5,5,5,4,4,4,4,4,4,4,1
+1041,Bundaberg,2,3,3,3,4,0,3,0,0,3,2
+1042,Dawson Valley,4,4,4,4,4,4,4,4,4,4,1
+1043,Boyne River and Tarong,3,5,0,4,0,0,5,4,4,4,0
+1044,Upper Condamine,5,0,0,5,5,5,5,5,5,5,3
+1045,St George,5,5,0,0,0,5,5,5,5,5,3
+1046,Burdekin Haughton,1,2,3,3,3,1,3,1,3,2,2
+1047,Macintyre Brook,4,3,3,3,3,1,0,0,3,3,2
+1048,Chinchilla Weir,4,4,4,0,0,4,4,4,4,4,1
+1049,Eton,3,0,3,5,0,0,1,2,0,3,2
+1050,Barker Barambah,4,3,4,3,3,3,3,3,4,3,2
+1051,Nogoa Mackenzie,5,0,0,5,0,0,5,5,5,4,0
+1052,Eton,4,0,0,4,0,0,0,0,4,4,0
+1053,Burdekin Haughton,4,3,3,3,3,2,4,4,3,4,1
+1054,Macintyre Brook,4,4,4,4,0,0,0,0,4,4,0
+1055,St George,4,5,5,3,0,2,4,2,3,4,0
+1056,Boyne River and Tarong,2,2,3,3,3,1,3,0,3,2,2
+1057,Bundaberg,4,0,0,3,0,0,3,3,3,3,0
+1058,Upper Burnett,3,0,1,0,0,1,2,2,1,3,2
+1059,Mareeba Dimbulah,5,5,4,5,5,5,0,0,5,4,3
+1060,Three Moon Creek,3,0,3,3,3,3,4,3,4,3,2
+1061,Dawson Valley,4,5,4,4,4,4,5,4,5,4,1
+1062,Nogoa Mackenzie,4,3,3,3,3,3,3,3,3,4,2
+1063,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1064,Eton,3,0,0,3,0,1,3,3,3,2,2
+1065,Bundaberg,3,3,3,3,3,3,4,3,3,3,2
+1066,Mareeba Dimbulah,3,1,4,4,0,2,2,3,3,3,2
+1067,Burdekin Haughton,4,0,3,1,0,2,3,3,3,4,2
+1068,Bundaberg,3,4,5,3,0,1,1,2,4,3,2
+1069,Bundaberg,4,0,0,5,0,0,5,5,5,4,0
+1070,Bundaberg,4,0,0,4,4,4,4,4,4,4,0
+1071,St George,4,0,5,4,0,5,5,0,5,4,0
+1072,Bundaberg,4,0,0,5,0,5,5,5,5,4,0
+1073,Lower Mary River,4,4,0,4,0,0,4,4,4,3,0
+1074,Bundaberg,4,0,0,5,0,0,5,0,5,4,0
+1075,Mareeba Dimbulah,3,0,4,4,0,0,4,0,3,3,0
+1076,Callide Valley,4,0,0,4,0,0,0,0,0,4,0
+1077,Eton,3,4,4,4,4,4,4,4,4,3,1
+1078,Bundaberg,4,0,4,4,0,0,4,0,5,4,0
+1079,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,4,1
+1080,Eton,3,4,0,3,3,3,2,3,3,3,2
+1081,Three Moon Creek,3,0,0,3,4,3,3,3,0,4,2
+1082,Bundaberg,3,3,3,4,4,2,4,4,3,4,1
+1083,Nogoa Mackenzie,3,0,0,3,0,1,2,2,2,4,0
+1084,Upper Condamine,3,4,4,4,0,4,4,3,4,3,1
+1085,Bundaberg,3,0,0,3,0,2,4,4,4,3,0
+1086,Callide Valley,3,3,3,3,3,3,3,3,3,3,2
+1087,Barker Barambah,3,4,0,4,3,0,4,4,3,3,0
+1088,Nogoa Mackenzie,4,0,0,4,0,4,0,0,4,4,0
+1089,Bundaberg,5,4,0,5,0,0,4,4,4,4,0
+1090,Eton,4,4,4,4,2,3,4,4,4,4,1
+1091,Pioneer River,4,0,0,3,0,3,0,0,2,2,0
+1092,Bundaberg,3,5,5,5,5,3,5,5,5,5,3
+1093,Nogoa Mackenzie,5,4,3,0,0,3,5,0,3,4,2
+1094,Bundaberg,4,3,3,4,0,3,4,3,3,4,0
+1095,Eton,2,0,4,4,0,2,5,4,4,4,0
+1096,Mareeba Dimbulah,3,0,0,3,0,3,3,4,3,3,2
+1097,Mareeba Dimbulah,5,4,0,5,0,0,0,0,0,4,0
+1098,Boyne River and Tarong,4,4,0,4,0,3,3,0,4,4,0
+1099,Mareeba Dimbulah,4,4,0,4,0,4,4,4,4,3,1
+1100,St George,2,5,2,3,3,2,4,1,2,2,0
+1101,Barker Barambah,4,4,0,4,0,4,0,4,4,4,1
+1102,Mareeba Dimbulah,3,3,3,3,2,3,4,3,3,4,2
+1103,Callide Valley,4,5,5,5,5,5,5,5,5,4,3
+1104,Burdekin Haughton,5,5,5,5,5,5,5,5,5,5,3
+1105,Three Moon Creek,3,0,0,4,0,0,4,0,0,4,0
+1106,Eton,4,0,5,5,0,0,5,4,5,4,0
+1107,Mareeba Dimbulah,3,3,1,5,5,1,5,5,1,1,3
+1108,Burdekin Haughton,4,5,5,4,0,3,5,0,4,5,0
+1109,Eton,3,2,3,2,0,3,3,2,3,3,2
+1110,Eton,3,0,0,3,0,0,4,0,0,4,0
+1111,Bundaberg,4,3,4,3,2,2,3,3,3,3,2
+1112,Mareeba Dimbulah,4,4,4,4,0,3,4,3,4,4,1
+1113,Upper Condamine,4,5,5,5,4,3,4,4,4,3,1
+1114,Nogoa Mackenzie,5,4,5,4,5,4,5,0,5,5,3
+1115,Upper Burnett,3,3,2,3,3,2,2,3,2,2,2
+1116,Bundaberg,4,4,4,4,4,4,4,4,4,5,1
+1117,Eton,3,0,0,1,0,0,3,0,0,3,0
+1118,Burdekin Haughton,5,0,5,5,5,5,5,5,5,5,3
+1119,Dawson Valley,3,0,4,3,3,3,4,3,3,4,2
+1120,Bundaberg,1,0,3,0,0,1,5,0,3,3,0
+1121,Boyne River and Tarong,4,4,2,4,2,3,4,0,3,3,0
+1122,Three Moon Creek,5,0,0,5,0,4,0,3,4,4,0
+1123,Upper Condamine,4,4,0,5,0,4,5,5,5,4,0
+1124,Cunnamulla,5,4,0,4,0,0,0,0,4,4,0
+1125,Eton,2,0,2,3,0,2,0,0,0,3,0
+1126,Barker Barambah,2,4,4,4,4,4,3,3,3,3,1
+1127,Nogoa Mackenzie,5,5,5,4,4,4,4,4,4,4,1
+1128,Nogoa Mackenzie,4,4,4,4,4,4,4,4,4,4,1
+1129,Bundaberg,4,4,0,4,0,0,4,4,4,4,0
+1130,Bundaberg,4,0,3,4,4,1,4,0,3,4,0
+1131,Burdekin Haughton,4,4,4,4,4,4,4,4,4,4,1
+1132,Mareeba Dimbulah,3,0,0,4,0,0,4,0,3,4,0
+1133,Mareeba Dimbulah,1,0,0,0,0,0,0,0,0,2,0
+1134,Bundaberg,3,0,2,5,0,2,3,1,3,2,2
+1135,Burdekin Haughton,3,3,4,3,3,3,3,3,3,2,2
+1136,Burdekin Haughton,4,4,0,5,0,5,4,5,5,5,3
+1137,Mareeba Dimbulah,2,1,0,1,1,1,1,0,1,3,0
+1138,Mareeba Dimbulah,5,0,0,5,0,0,0,0,5,5,0
+1139,Mareeba Dimbulah,4,4,0,5,0,5,5,5,5,4,3
+1140,Mareeba Dimbulah,3,2,3,3,0,2,4,3,3,3,2
+1141,Upper Burnett,5,4,4,4,4,4,5,4,4,4,1
+1142,Upper Burnett,3,0,3,3,0,3,3,3,3,3,2
+1143,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,4,1
+1144,Mareeba Dimbulah,3,0,0,4,0,0,5,3,4,5,0
+1145,Macintyre Brook,3,3,3,3,0,0,3,0,0,4,2
+1146,Bundaberg,1,0,4,3,3,1,4,1,3,3,0
+1147,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,4,1
+1148,Mareeba Dimbulah,3,3,3,4,3,2,4,0,2,2,2
+1149,Mareeba Dimbulah,4,0,4,4,0,0,4,0,5,4,0
+1150,Mareeba Dimbulah,3,4,4,4,0,4,4,4,4,4,1
+1151,Eton,4,4,4,4,3,4,4,3,4,4,1
+1152,Mareeba Dimbulah,4,0,0,5,0,3,0,0,0,5,0
+1153,Mareeba Dimbulah,3,0,0,4,3,4,3,3,3,4,2
+1154,Burdekin Haughton,2,3,0,4,3,2,4,1,3,2,0
+1155,Lower Mary River,4,4,5,5,0,4,0,4,4,3,1
+1156,Mareeba Dimbulah,4,0,0,5,0,0,0,0,0,4,0
+1157,Upper Condamine,5,4,4,4,4,5,3,4,4,4,1
+1158,Bundaberg,2,2,2,4,2,1,3,3,2,3,2
+1159,Dawson Valley,4,4,4,4,4,4,4,4,4,4,1
+1160,Mareeba Dimbulah,4,3,4,4,0,3,0,0,3,3,2
+1161,Bundaberg,2,0,4,4,0,3,4,0,2,2,0
+1162,Bundaberg,3,0,4,4,0,2,4,0,3,3,0
+1163,Mareeba Dimbulah,5,3,0,4,0,5,0,3,4,4,0
+1164,Mareeba Dimbulah,5,4,0,4,0,4,4,0,4,4,0
+1165,Mareeba Dimbulah,3,3,0,4,0,0,0,0,0,3,0
+1166,Bundaberg,4,4,0,4,0,0,4,4,4,4,0
+1167,Proserpine River,2,2,0,3,0,2,3,1,1,3,2
+1168,Bundaberg,3,0,0,4,0,0,4,4,3,4,0
+1169,Bowen Broken Rivers,3,0,0,4,0,0,0,0,4,4,0
+1170,Mareeba Dimbulah,1,3,1,4,3,3,1,1,1,1,2
+1171,Bundaberg,2,3,3,3,2,2,2,3,3,3,2
+1172,Bundaberg,5,0,0,4,0,4,5,0,5,5,0
+1173,Mareeba Dimbulah,4,4,0,4,0,4,4,4,4,4,1
+1174,Bundaberg,5,4,5,5,4,5,5,5,5,5,3
+1175,Burdekin Haughton,2,2,3,3,3,1,3,1,3,2,2
+1176,Lower Mary River,5,5,5,5,5,5,5,5,5,5,3
+1177,Mareeba Dimbulah,4,5,5,5,0,5,5,5,5,5,3
+1178,Burdekin Haughton,5,5,5,5,5,5,5,5,5,5,3
+1179,Bundaberg,3,3,3,4,3,3,3,3,4,5,2
+1180,Eton,4,4,0,4,2,3,4,4,4,4,1
+1181,Mareeba Dimbulah,3,0,0,4,1,1,3,0,2,2,0
+1182,Mareeba Dimbulah,5,3,3,2,2,2,4,3,2,3,2
+1183,Macintyre Brook,4,4,0,4,4,4,4,0,4,4,1
+1184,Mareeba Dimbulah,4,0,0,4,0,0,4,4,4,3,0
+1185,Mareeba Dimbulah,4,4,4,4,0,3,4,0,4,4,1
+1186,Barker Barambah,5,4,4,4,4,4,4,4,4,4,1
+1187,Eton,1,4,0,3,0,2,4,2,0,3,0
+1188,Mareeba Dimbulah,1,1,1,1,0,1,0,1,1,2,2
+1189,Mareeba Dimbulah,3,0,0,3,3,3,4,4,3,3,2
+1190,Bundaberg,3,0,2,3,0,0,3,3,3,3,2
+1191,Proserpine River,4,3,3,3,0,0,0,0,3,3,2
+1192,St George,2,3,3,2,3,1,4,1,1,1,2
+1193,Dawson Valley,3,4,4,4,0,1,4,0,4,2,0
+1194,Bundaberg,3,0,0,4,0,4,4,4,4,4,0
+1195,Burdekin Haughton,4,4,4,4,0,3,5,0,4,4,0
+1196,Bundaberg,3,0,3,3,0,1,4,3,2,3,2
+1197,Nogoa Mackenzie,5,4,3,5,2,2,5,4,5,5,3
+1198,Burdekin Haughton,3,3,0,3,0,2,3,2,2,2,2
+1199,Eton,4,0,0,4,4,4,4,4,4,5,1
+1200,Barker Barambah,4,4,0,4,4,4,5,4,5,4,1
+1201,Bundaberg,4,4,4,4,4,4,4,4,4,3,1
+1202,Mareeba Dimbulah,4,0,0,4,0,0,4,0,4,4,0
+1203,Mareeba Dimbulah,3,0,3,3,0,0,4,0,3,4,0
+1204,Upper Burnett,4,5,4,4,4,4,4,0,4,4,1
+1205,Bundaberg,5,0,5,0,0,0,4,3,5,4,0
+1206,Burdekin Haughton,3,3,4,4,3,2,3,3,2,3,2
+1207,Mareeba Dimbulah,2,4,4,4,4,3,4,4,4,4,1
+1208,Mareeba Dimbulah,3,3,1,2,2,3,4,0,3,2,2
+1209,Mareeba Dimbulah,5,5,4,5,4,5,4,4,4,4,1
+1210,Lower Mary River,3,1,1,3,0,1,4,1,1,2,2
+1211,Bundaberg,4,0,0,4,0,4,5,4,5,5,0
+1212,Upper Burnett,3,0,2,4,0,3,4,3,3,3,2
+1213,Chinchilla Weir,4,0,4,4,0,4,4,4,4,4,1
+1214,Eton,3,3,4,3,0,1,2,0,1,2,2
+1215,Bundaberg,2,0,0,2,2,0,3,0,1,1,0
+1216,Burdekin Haughton,3,4,0,4,3,4,4,3,3,3,1
+1217,Three Moon Creek,4,0,4,4,4,4,4,3,3,5,1
+1218,Bundaberg,3,4,4,4,0,0,5,4,4,4,0
+1219,Mareeba Dimbulah,3,4,0,4,0,0,0,0,5,4,0
+1220,Macintyre Brook,4,3,4,3,4,3,4,3,3,3,2
+1221,Bundaberg,4,0,0,4,0,0,4,3,4,3,0
+1222,Mareeba Dimbulah,4,5,3,4,4,4,5,5,4,5,1
+1223,Mareeba Dimbulah,3,4,0,4,0,0,4,4,4,4,0
+1224,Burdekin Haughton,4,0,0,4,0,4,0,0,0,3,0
+1225,Burdekin Haughton,3,5,5,5,2,2,5,4,2,3,3
+1226,Nogoa Mackenzie,4,0,5,5,4,4,5,0,4,4,0
+1227,Barker Barambah,2,3,0,3,0,3,3,3,3,3,2
+1228,Mareeba Dimbulah,3,4,4,4,4,4,4,3,4,2,1
+1229,Lower Mary River,5,5,4,4,5,4,5,4,5,5,3
+1230,Bundaberg,4,4,4,4,4,4,4,4,4,4,1
+1231,Nogoa Mackenzie,1,5,3,3,0,3,4,3,3,3,2
+1232,Dawson Valley,2,3,3,2,3,1,2,1,1,1,2
+1233,Bundaberg,3,3,3,3,0,2,4,4,4,4,0
+1234,Mareeba Dimbulah,3,0,0,3,0,0,4,0,3,3,0
+1235,Mareeba Dimbulah,5,5,4,4,4,4,4,4,5,4,1
+1236,Nogoa Mackenzie,5,4,5,5,5,5,5,5,5,5,3
+1237,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1238,Mareeba Dimbulah,5,5,5,5,0,5,0,0,5,5,3
+1239,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,5,1
+1240,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1241,Dawson Valley,4,5,5,5,5,5,5,5,5,4,3
+1242,Burdekin Haughton,4,5,5,5,5,4,4,4,5,4,1
+1243,Upper Condamine,3,0,0,0,0,0,3,0,0,3,0
+1244,Burdekin Haughton,4,0,0,4,0,0,4,3,4,4,0
+1245,Mareeba Dimbulah,5,0,0,4,0,0,0,0,4,4,0
+1246,Bundaberg,4,0,0,4,0,0,4,0,4,4,0
+1247,Cunnamulla,4,4,4,4,3,4,4,4,4,4,1
+1248,Mareeba Dimbulah,5,4,4,4,0,0,0,0,4,4,0
+1249,Three Moon Creek,3,0,0,3,0,2,4,2,2,3,0
+1250,Bundaberg,3,0,4,4,0,3,4,3,4,3,0
+1251,Bundaberg,4,0,4,4,0,5,4,4,5,4,0
+1252,Mareeba Dimbulah,3,4,4,4,0,0,0,4,4,4,1
+1253,Upper Condamine,3,3,4,5,0,0,3,0,0,3,2
+1254,Bundaberg,5,0,5,5,5,1,5,5,5,3,3
+1255,Mareeba Dimbulah,3,0,0,4,0,0,4,3,3,3,0
+1256,Bundaberg,5,0,4,4,0,4,4,4,4,4,0
+1257,Burdekin Haughton,2,0,0,1,0,3,3,0,3,3,2
+1258,Mareeba Dimbulah,5,5,5,3,0,3,0,3,5,5,2
+1259,Bundaberg,5,0,4,4,0,0,5,5,5,4,0
+1260,Bowen Broken Rivers,4,0,0,4,4,4,4,4,4,4,1
+1261,Callide Valley,4,3,3,3,3,3,3,3,3,3,2
+1262,Boyne River and Tarong,4,0,0,4,4,4,0,0,4,4,0
+1263,Lower Mary River,4,0,3,4,0,3,4,4,4,4,0
+1264,Nogoa Mackenzie,3,0,0,3,0,3,5,0,4,4,0
+1265,Boyne River and Tarong,3,0,0,3,0,0,4,3,0,3,0
+1266,Bundaberg,5,5,5,5,5,5,5,5,5,5,3
+1267,St George,3,4,3,3,0,3,3,3,3,4,2
+1268,Maranoa River,3,3,4,4,3,3,5,3,3,3,2
+1269,Dawson Valley,3,3,3,3,3,3,3,3,3,3,2
+1270,Barker Barambah,4,4,3,4,4,3,5,3,3,4,1
+1271,Dawson Valley,3,0,4,2,1,2,3,2,3,3,2
+1272,Burdekin Haughton,4,5,4,4,0,3,4,4,4,4,1
+1273,Mareeba Dimbulah,3,4,0,4,0,0,4,3,3,3,2
+1274,Mareeba Dimbulah,3,3,0,3,0,3,3,4,3,3,2
+1275,Boyne River and Tarong,4,0,0,3,0,0,0,0,0,3,0
+1276,Macintyre Brook,4,5,4,4,4,4,4,4,4,4,1
+1277,St George,3,0,0,4,0,0,4,0,0,4,0
+1278,Bundaberg,4,4,4,4,4,4,4,4,5,5,1
+1279,Eton,3,4,0,2,0,0,4,0,4,4,0
+1280,Burdekin Haughton,4,0,0,4,0,0,4,0,4,4,0
+1281,Bundaberg,3,0,0,2,2,0,3,1,1,2,0
+1282,Barker Barambah,3,3,0,3,0,4,3,3,2,3,2
+1283,Burdekin Haughton,4,5,0,4,0,4,4,4,4,4,0
+1284,Callide Valley,4,4,3,4,0,2,4,4,2,3,1
+1285,Burdekin Haughton,2,4,4,4,1,2,4,3,3,3,1
+1286,Lower Mary River,5,0,0,4,4,4,4,4,4,4,1
+1287,Dawson Valley,4,5,5,5,0,0,3,4,5,5,3
+1288,Mareeba Dimbulah,5,5,0,4,0,4,4,4,4,4,1
+1289,Mareeba Dimbulah,4,4,4,5,4,3,5,4,4,4,1
+1290,Boyne River and Tarong,3,0,0,3,0,3,5,0,4,4,0
+1291,Nogoa Mackenzie,4,0,5,5,0,4,4,4,4,4,0
+1292,Mareeba Dimbulah,4,3,3,3,3,3,3,3,3,3,2
+1293,Upper Condamine,5,5,5,5,0,4,5,0,5,4,3
+1294,Bundaberg,4,0,0,4,0,0,4,4,4,4,0
+1295,Mareeba Dimbulah,4,3,4,4,0,4,4,4,3,4,1
+1296,Eton,4,4,3,4,3,3,4,4,4,3,1
+1297,Nogoa Mackenzie,4,4,4,3,3,3,4,3,3,3,2
+1298,Mareeba Dimbulah,5,0,0,5,0,5,5,0,5,5,3
+1299,Mareeba Dimbulah,4,0,5,5,0,0,4,0,0,4,0
+1300,Upper Burnett,3,3,0,3,3,2,2,2,3,3,2
+1301,Bundaberg,4,0,5,5,0,2,5,0,4,5,0
+1302,Nogoa Mackenzie,2,3,4,3,0,0,0,2,4,3,2
+1303,Barker Barambah,3,4,0,4,0,3,4,4,4,4,0
+1304,Bundaberg,5,0,5,5,5,5,5,4,5,4,3
+1305,Burdekin Haughton,2,4,5,5,5,3,3,3,3,2,2
+1306,Proserpine River,4,3,4,4,4,4,4,4,4,4,1
+1307,Boyne River and Tarong,3,0,0,3,0,0,0,0,0,2,0
+1308,St George,4,0,4,4,4,4,5,4,4,4,1
+1309,Burdekin Haughton,3,4,3,4,4,4,5,3,3,3,2
+1310,Mareeba Dimbulah,4,0,4,4,0,0,0,0,5,4,0
+1311,Eton,4,5,4,5,4,5,5,4,5,4,1
+1312,Mareeba Dimbulah,2,2,3,1,0,3,3,1,0,2,2
+1313,Mareeba Dimbulah,3,3,4,3,3,3,3,3,3,3,2
+1314,Mareeba Dimbulah,3,0,0,3,0,0,3,3,3,3,2
+1315,Mareeba Dimbulah,5,3,4,4,0,0,0,0,4,4,0
+1316,Burdekin Haughton,2,4,0,4,0,3,4,0,3,4,0
+1317,Lower Mary River,5,4,4,4,4,4,5,4,5,4,1
+1318,Mareeba Dimbulah,3,0,4,4,0,0,5,3,3,4,0
+1319,Dawson Valley,4,3,0,3,3,3,4,3,3,4,2
+1320,Lower Mary River,3,0,4,4,4,4,4,0,4,4,1
+1321,Proserpine River,3,2,4,3,3,3,3,0,4,3,2
+1322,Upper Condamine,4,4,3,3,0,3,2,3,3,3,2
+1323,Lower Mary River,5,0,0,5,0,5,5,5,5,5,3
+1324,Bundaberg,3,4,3,3,3,5,2,0,3,3,2
+1325,Mareeba Dimbulah,4,4,4,4,0,3,4,4,4,4,1
+1326,Bundaberg,5,5,5,5,5,5,5,5,5,5,3
+1327,Boyne River and Tarong,5,0,0,4,0,0,4,0,4,4,0
+1328,Mareeba Dimbulah,3,3,3,3,3,3,3,3,3,4,2
+1329,Eton,3,3,2,3,3,2,4,3,3,3,2
+1330,Bundaberg,3,3,3,3,3,3,3,3,3,3,2
+1331,St George,5,0,5,5,5,0,5,5,5,5,3
+1332,Dawson Valley,2,3,3,1,0,3,4,1,1,1,2
+1333,Mareeba Dimbulah,3,3,0,4,0,3,3,3,2,3,2
+1334,Mareeba Dimbulah,4,0,4,4,0,0,4,4,4,4,0
+1335,Callide Valley,4,0,0,3,0,0,0,0,3,3,0
+1336,Bundaberg,4,0,0,4,0,0,0,0,0,5,0
+1337,Bundaberg,3,0,3,3,3,3,3,0,3,3,2
+1338,Upper Burnett,3,0,0,4,0,2,4,2,3,2,0
+1339,Barker Barambah,2,3,3,3,3,2,3,3,3,3,2
+1340,St George,4,0,0,0,0,0,5,0,4,4,0
+1341,Burdekin Haughton,4,4,4,4,4,4,4,4,4,3,1
+1342,Mareeba Dimbulah,4,0,4,5,0,3,3,4,4,4,1
+1343,Barker Barambah,3,3,0,4,3,0,1,3,3,3,2
+1344,Burdekin Haughton,3,0,0,3,0,0,3,0,0,3,0
+1345,Bundaberg,5,5,5,4,4,4,4,4,4,4,1
+1346,Mareeba Dimbulah,4,4,4,4,4,3,4,4,4,4,1
+1347,St George,4,0,0,0,0,4,4,3,3,3,0
+1348,Nogoa Mackenzie,4,0,0,4,0,0,4,0,0,4,0
+1349,St George,4,5,5,5,4,4,4,4,5,4,1
+1350,Bundaberg,4,0,4,4,4,2,4,4,4,4,1
+1351,Bundaberg,4,0,0,4,0,0,4,0,0,4,0
+1352,Mareeba Dimbulah,3,4,4,3,4,3,4,3,4,3,1
+1353,Barker Barambah,3,0,0,3,0,0,4,3,3,3,2
+1354,Bundaberg,1,0,0,1,0,1,3,3,1,2,0
+1355,Eton,3,3,4,3,3,3,4,3,3,3,2
+1356,Callide Valley,4,0,3,4,0,4,4,0,0,4,0
+1357,Boyne River and Tarong,4,0,0,4,0,4,4,0,4,5,0
+1358,Callide Valley,4,5,5,5,0,3,4,3,4,4,0
+1359,Burdekin Haughton,3,0,0,3,2,1,0,0,0,2,0
+1360,Dawson Valley,3,3,3,4,4,3,4,3,3,4,2
+1361,Bundaberg,4,0,4,2,0,4,4,4,4,3,0
+1362,Eton,2,1,1,3,0,1,3,0,1,2,2
+1363,Lower Mary River,2,1,1,1,1,1,1,0,1,1,0
+1364,Burdekin Haughton,3,4,4,4,4,4,4,4,4,4,1
+1365,Macintyre Brook,3,3,3,2,0,1,1,1,2,3,2
+1366,Burdekin Haughton,4,5,0,3,0,4,4,4,4,4,0
+1367,Mareeba Dimbulah,3,0,0,4,0,0,4,0,4,4,0
+1368,Callide Valley,3,0,0,3,0,0,3,0,3,4,0
+1369,Mareeba Dimbulah,2,4,3,3,3,3,4,4,4,4,1
+1370,Bundaberg,4,0,4,4,0,0,4,4,4,4,0
+1371,Mareeba Dimbulah,3,4,3,4,3,2,3,2,3,3,2
+1372,Bundaberg,2,1,1,1,1,1,1,1,1,2,0
+1373,Dawson Valley,4,4,3,3,2,3,3,3,4,4,2
+1374,Lower Mary River,5,0,0,5,0,0,4,0,4,5,0
+1375,Mareeba Dimbulah,3,0,0,4,4,3,4,3,4,4,0
+1376,Callide Valley,3,0,3,3,0,1,2,0,1,1,2
+1377,Bundaberg,5,0,0,5,0,3,3,3,3,4,0
+1378,Mareeba Dimbulah,4,5,5,5,0,4,5,0,5,5,3
+1379,Bundaberg,4,0,0,0,0,0,0,0,4,4,0
+1380,Eton,5,4,4,5,5,4,5,5,5,4,3
+1381,Upper Condamine,1,0,0,0,0,0,3,0,1,2,0
+1382,Mareeba Dimbulah,4,0,0,4,0,0,4,4,4,4,0
+1383,Nogoa Mackenzie,4,0,0,4,4,0,4,0,4,5,0
+1384,Lower Fitzroy,5,5,5,4,0,4,0,4,5,4,1
+1385,Bundaberg,4,0,5,5,0,3,4,0,5,4,0
+1386,Bundaberg,3,0,4,5,0,4,4,4,4,3,0
+1387,Upper Burnett,4,0,4,4,0,0,4,4,4,4,0
+1388,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,3,1
+1389,Macintyre Brook,4,4,4,0,0,4,2,0,4,4,1
+1390,Mareeba Dimbulah,3,4,0,3,0,0,3,0,3,4,2
+1391,Bundaberg,4,4,0,5,0,0,4,4,4,4,0
+1392,Mareeba Dimbulah,4,0,0,4,0,0,4,4,4,4,0
+1393,Callide Valley,3,4,5,4,0,0,4,0,0,3,0
+1394,Mareeba Dimbulah,4,4,4,3,0,3,4,3,4,3,1
+1395,Mareeba Dimbulah,5,0,0,5,0,0,5,0,5,5,0
+1396,Barker Barambah,3,3,3,3,0,3,4,3,3,3,2
+1397,Eton,3,0,0,3,0,0,3,0,0,4,0
+1398,Lower Mary River,1,0,5,5,5,5,5,3,5,5,3
+1399,Bundaberg,4,5,4,4,4,4,4,4,4,3,1
+1400,Chinchilla Weir,3,0,4,3,0,3,4,0,3,3,2
+1401,Bundaberg,5,0,0,5,0,0,5,0,5,5,0
+1402,Burdekin Haughton,4,4,0,3,3,4,4,0,3,4,0
+1403,Bundaberg,5,4,0,4,0,4,4,4,4,4,0
+1404,Macintyre Brook,2,0,3,3,0,0,0,0,0,3,0
+1405,Callide Valley,4,0,3,3,0,0,1,1,4,4,0
+1406,Bundaberg,2,3,3,3,0,2,4,4,4,4,0
+1407,Bundaberg,4,0,4,4,0,4,5,4,4,4,0
+1408,Bundaberg,3,0,3,3,0,2,4,4,3,3,2
+1409,Three Moon Creek,4,0,0,3,0,4,4,0,5,4,0
+1410,Proserpine River,3,3,3,3,3,3,3,3,3,3,2
+1411,Bundaberg,4,0,0,5,0,4,5,0,4,4,0
+1412,Burdekin Haughton,3,3,0,3,0,1,0,1,3,4,2
+1413,Upper Burnett,4,4,4,4,4,4,4,4,4,4,1
+1414,Nogoa Mackenzie,4,4,5,4,0,4,5,0,5,4,0
+1415,Burdekin Haughton,4,4,4,4,3,4,4,4,4,4,1
+1416,Barker Barambah,3,2,0,1,0,0,4,1,1,1,0
+1417,Lower Mary River,5,0,0,5,0,0,4,0,0,4,0
+1418,St George,4,0,4,4,0,4,5,0,4,4,0
+1419,Burdekin Haughton,3,4,4,4,4,4,4,4,4,4,1
+1420,Upper Condamine,3,0,0,5,0,0,5,0,3,3,0
+1421,Nogoa Mackenzie,5,5,5,5,5,5,5,0,5,5,3
+1422,Burdekin Haughton,3,0,0,3,0,0,0,0,3,3,0
+1423,Eton,3,0,0,3,0,2,3,3,3,3,2
+1424,Bundaberg,5,3,4,4,5,4,4,4,4,5,1
+1425,Burdekin Haughton,4,0,0,4,0,1,0,1,4,4,0
+1426,Bundaberg,4,0,0,3,0,0,4,0,4,5,0
+1427,Proserpine River,5,4,4,4,0,4,4,4,4,3,1
+1428,Boyne River and Tarong,5,5,5,5,5,4,5,5,5,5,3
+1429,Barker Barambah,5,0,0,4,0,0,4,0,4,4,0
+1430,Bundaberg,4,3,3,3,3,3,3,3,3,4,2
+1431,Bundaberg,2,2,2,4,2,1,3,3,2,2,0
+1432,Mareeba Dimbulah,2,3,2,2,2,2,3,1,2,3,2
+1433,Mareeba Dimbulah,4,5,5,4,0,4,4,4,4,4,1
+1434,Nogoa Mackenzie,5,5,0,4,0,5,5,0,5,5,3
+1435,Mareeba Dimbulah,4,0,0,3,0,0,5,5,5,4,0
+1436,Upper Condamine,4,5,0,2,3,5,5,4,5,4,3
+1437,Three Moon Creek,3,2,0,4,0,3,4,3,4,4,0
+1438,Burdekin Haughton,3,4,4,4,5,3,4,3,3,3,2
+1439,Bundaberg,4,4,4,3,0,0,4,0,4,4,0
+1440,Bundaberg,4,0,0,5,0,4,4,3,3,4,0
+1441,Chinchilla Weir,4,4,4,4,4,4,4,4,4,5,1
+1442,Barker Barambah,3,0,0,3,0,3,0,0,0,3,2
+1443,Callide Valley,2,0,3,2,1,1,3,3,2,3,2
+1444,Upper Burnett,1,3,3,2,0,0,1,1,3,3,2
+1445,Barker Barambah,4,5,5,5,5,5,5,5,5,4,3
+1446,Nogoa Mackenzie,2,0,1,3,0,0,4,0,1,3,0
+1447,Bundaberg,2,0,0,3,0,2,3,2,1,1,0
+1448,Burdekin Haughton,4,3,3,3,0,3,3,3,3,4,2
+1449,Burdekin Haughton,4,5,0,4,3,3,4,3,3,3,0
+1450,Mareeba Dimbulah,2,3,3,3,3,3,2,2,1,3,2
+1451,Lower Mary River,4,0,0,4,0,0,4,4,3,4,0
+1452,Three Moon Creek,4,0,5,5,0,4,4,4,4,4,0
+1453,Boyne River and Tarong,3,0,0,4,3,0,4,0,0,4,0
+1454,Bundaberg,4,4,5,5,4,4,4,4,4,5,1
+1455,Boyne River and Tarong,3,0,0,4,0,3,0,0,3,3,0
+1456,Mareeba Dimbulah,1,0,0,0,0,0,0,0,0,1,0
+1457,Bundaberg,2,0,3,1,1,1,3,1,1,2,0
+1458,Mareeba Dimbulah,4,3,5,4,3,3,3,3,3,4,2
+1459,Lower Fitzroy,4,0,0,3,3,3,3,0,3,3,2
+1460,Boyne River and Tarong,4,0,0,4,0,4,4,0,0,4,0
+1461,Burdekin Haughton,1,1,0,2,3,1,1,1,1,1,0
+1462,Lower Mary River,3,0,4,4,0,3,4,4,4,3,0
+1463,Cunnamulla,4,0,0,3,0,0,3,0,3,5,0
+1464,Boyne River and Tarong,3,0,2,3,3,3,3,2,2,3,2
+1465,Mareeba Dimbulah,4,0,0,4,0,0,4,0,4,4,0
+1466,Dawson Valley,5,5,5,5,5,5,0,5,5,5,3
+1467,Mareeba Dimbulah,3,3,0,1,0,4,5,3,4,3,2
+1468,Nogoa Mackenzie,3,3,3,3,0,3,4,3,2,3,2
+1469,Burdekin Haughton,3,4,3,4,0,1,4,2,3,3,2
+1470,Callide Valley,1,0,4,3,0,3,3,1,1,2,2
+1471,Mareeba Dimbulah,4,0,3,3,0,2,4,4,3,4,0
+1472,Dawson Valley,5,0,0,0,5,5,0,0,0,4,0
+1473,Burdekin Haughton,4,0,0,5,0,4,5,4,4,4,0
+1474,Barker Barambah,2,2,2,1,1,1,1,1,1,1,0
+1475,Mareeba Dimbulah,3,2,3,4,0,3,4,3,3,3,2
+1476,Burdekin Haughton,4,4,0,4,4,4,4,4,4,4,1
+1477,Upper Burnett,3,0,0,4,0,3,5,0,4,4,0
+1478,Burdekin Haughton,4,4,0,4,4,4,4,4,4,4,1
+1479,Proserpine River,4,4,4,4,0,4,5,4,4,4,1
+1480,Bundaberg,4,0,5,4,0,3,5,0,5,4,0
+1481,Dawson Valley,1,0,0,0,0,1,3,1,1,1,0
+1482,Mareeba Dimbulah,3,4,4,4,4,4,3,3,3,3,1
+1483,Bundaberg,5,0,5,4,0,0,5,3,5,5,3
+1484,Bundaberg,5,0,4,4,4,4,4,4,4,4,1
+1485,Eton,1,1,1,1,0,1,1,1,2,3,2
+1486,Barker Barambah,3,5,5,5,0,1,5,3,4,5,3
+1487,Bundaberg,4,0,4,4,0,4,4,4,4,4,0
+1488,Lower Mary River,5,4,4,4,4,3,4,4,4,4,1
+1489,Mareeba Dimbulah,4,0,0,4,0,0,5,0,0,4,0
+1490,Chinchilla Weir,4,0,0,0,3,0,4,0,0,4,0
+1491,Boyne River and Tarong,4,3,3,3,3,3,4,3,3,4,2
+1492,Three Moon Creek,4,0,0,0,0,0,0,0,0,3,0
+1493,Nogoa Mackenzie,4,0,0,4,4,4,4,4,4,4,1
+1494,Bundaberg,3,0,0,2,0,0,3,3,2,3,0
+1495,Eton,3,3,1,3,3,3,4,3,3,3,2
+1496,Mareeba Dimbulah,4,0,0,5,4,0,4,4,4,3,0
+1497,Upper Burnett,4,4,4,3,4,3,4,3,3,4,1
+1498,Bundaberg,4,4,4,4,0,0,5,0,4,4,0
+1499,Mareeba Dimbulah,2,2,3,3,0,2,3,3,3,3,2
+1500,Bundaberg,3,0,0,3,0,2,4,3,3,3,2
+1501,Nogoa Mackenzie,4,0,0,3,4,0,4,0,0,4,0
+1502,Macintyre Brook,4,4,3,4,4,4,3,3,4,4,1
+1503,St George,2,0,0,2,1,0,3,2,2,2,0
+1504,Burdekin Haughton,3,3,0,3,3,1,3,2,1,2,2
+1505,Dawson Valley,4,3,4,4,5,5,5,4,5,3,1
+1506,Macintyre Brook,5,5,5,5,0,4,5,5,5,4,3
+1507,Burdekin Haughton,3,4,3,2,3,2,3,4,2,3,2
+1508,Pioneer River,3,4,4,4,0,3,3,4,4,3,1
+1509,Julius Dam,4,4,4,4,0,0,0,0,4,4,0
+1510,Bundaberg,4,0,0,4,0,4,5,0,5,5,0
+1511,Lower Mary River,3,3,2,3,2,3,3,3,3,3,2
+1512,Burdekin Haughton,4,4,4,4,1,3,4,4,5,4,1
+1513,Callide Valley,3,0,0,3,5,3,4,3,3,3,2
+1514,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,4,1
+1515,Burdekin Haughton,5,5,4,4,0,3,3,3,4,4,0
+1516,Bundaberg,3,0,5,5,0,0,5,0,5,4,0
+1517,St George,4,4,4,4,0,4,4,4,4,3,1
+1518,Mareeba Dimbulah,1,2,0,4,0,3,1,2,2,3,2
+1519,Lower Mary River,4,0,0,4,0,0,4,4,4,4,0
+1520,Proserpine River,4,4,0,4,0,4,4,4,4,4,1
+1521,Mareeba Dimbulah,3,3,0,3,0,2,4,2,3,3,2
+1522,Bundaberg,5,0,4,4,0,3,4,4,4,4,0
+1523,Bundaberg,5,4,4,4,4,4,4,4,4,5,1
+1524,Nogoa Mackenzie,4,3,3,3,3,3,3,3,3,3,2
+1525,Mareeba Dimbulah,4,4,0,4,0,4,4,4,4,4,1
+1526,Burdekin Haughton,2,2,0,3,0,1,3,1,2,2,2
+1527,Mareeba Dimbulah,5,4,4,4,4,4,5,4,5,4,1
+1528,Bundaberg,2,0,0,5,3,2,4,3,3,3,0
+1529,Bundaberg,4,3,3,4,0,2,4,4,4,4,0
+1530,Nogoa Mackenzie,4,4,0,4,4,4,5,4,5,5,1
+1531,Mareeba Dimbulah,4,3,4,4,0,3,4,4,4,4,1
+1532,Burdekin Haughton,3,2,3,3,3,3,3,3,3,3,2
+1533,Bundaberg,4,4,4,4,4,4,4,4,4,4,1
+1534,Eton,4,4,0,4,0,4,4,4,4,3,1
+1535,Upper Burnett,3,3,4,3,0,2,4,2,3,4,2
+1536,Mareeba Dimbulah,3,2,5,5,0,3,4,4,3,3,2
+1537,Cunnamulla,3,0,0,4,4,2,4,0,4,4,0
+1538,Bundaberg,4,0,4,4,0,4,4,4,4,4,0
+1539,Upper Burnett,1,1,1,1,1,1,1,1,1,2,0
+1540,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1541,Dawson Valley,2,4,3,4,0,1,4,2,2,3,0
+1542,Mareeba Dimbulah,3,4,0,4,0,2,5,3,3,3,2
+1543,Boyne River and Tarong,3,0,0,1,0,3,4,0,4,3,0
+1544,Mareeba Dimbulah,4,0,4,4,0,0,4,0,4,3,0
+1545,Proserpine River,4,4,4,4,4,4,4,4,4,4,1
+1546,Upper Burnett,4,0,0,4,0,0,2,0,2,3,0
+1547,Mareeba Dimbulah,1,1,0,1,0,1,1,1,1,1,0
+1548,Barker Barambah,4,4,0,3,0,3,3,0,4,4,0
+1549,Mareeba Dimbulah,5,5,0,3,5,5,5,4,5,5,3
+1550,Bowen Broken Rivers,4,0,0,0,0,4,0,0,4,4,0
+1551,Callide Valley,4,0,3,4,0,5,0,0,4,4,0
+1552,Bundaberg,4,0,0,4,0,0,5,0,4,4,0
+1553,Mareeba Dimbulah,5,0,0,5,0,0,5,5,5,5,3
+1554,Nogoa Mackenzie,4,4,4,4,4,4,4,4,5,4,1
+1555,Burdekin Haughton,4,0,0,4,0,0,4,3,4,5,0
+1556,Mareeba Dimbulah,4,0,5,5,0,0,0,3,3,4,0
+1557,Bundaberg,4,0,4,4,0,1,2,3,4,4,0
+1558,Nogoa Mackenzie,4,5,5,5,4,5,4,4,5,4,1
+1559,Bundaberg,4,4,4,4,4,0,4,4,4,4,1
+1560,Eton,1,0,0,2,0,2,0,0,0,3,0
+1561,Nogoa Mackenzie,3,3,2,4,3,2,4,3,3,3,2
+1562,Bundaberg,3,4,4,4,4,4,4,4,4,3,1
+1563,Barker Barambah,4,4,4,3,3,3,3,3,4,4,1
+1564,Bundaberg,4,0,4,4,0,3,4,3,4,4,0
+1565,Bundaberg,5,5,4,5,5,4,5,5,5,4,3
+1566,Barker Barambah,4,0,0,0,0,0,4,0,4,4,0
+1567,Mareeba Dimbulah,4,4,4,4,4,4,4,0,4,4,1
+1568,Bundaberg,2,3,3,3,3,2,4,2,1,3,2
+1569,Mareeba Dimbulah,4,0,3,3,3,3,3,3,4,3,2
+1570,Boyne River and Tarong,3,0,0,3,0,3,5,3,3,3,2
+1571,Callide Valley,3,0,0,4,0,0,0,0,0,4,0
+1572,Mareeba Dimbulah,4,0,2,4,0,3,4,4,3,3,0
+1573,Bundaberg,3,4,4,2,4,3,4,4,4,4,1
+1574,Dawson Valley,3,0,3,3,0,0,4,3,4,3,2
+1575,Burdekin Haughton,5,3,0,4,0,5,3,0,5,5,0
+1576,St George,3,0,0,4,3,0,2,0,0,3,0
+1577,Bundaberg,2,0,0,5,4,2,4,3,3,3,0
+1578,Bundaberg,3,0,5,4,0,0,5,0,5,4,0
+1579,Bundaberg,2,0,0,3,0,3,5,4,3,3,2
+1580,Bowen Broken Rivers,4,0,0,4,2,3,0,0,4,3,0
+1581,Mareeba Dimbulah,4,0,0,4,0,0,0,0,4,4,0
+1582,Bundaberg,4,0,4,3,4,4,4,4,4,4,1
+1583,Bundaberg,4,0,4,3,0,3,4,4,4,4,0
+1584,Upper Burnett,5,0,5,5,4,5,5,3,4,4,3
+1585,Callide Valley,3,3,3,3,3,3,3,3,3,3,2
+1586,Mareeba Dimbulah,3,4,0,3,0,3,3,3,3,3,2
+1587,Callide Valley,4,0,0,3,3,2,4,4,4,3,0
+1588,Bundaberg,4,3,4,4,3,3,4,4,3,3,1
+1589,Proserpine River,4,3,4,4,0,3,4,4,4,4,1
+1590,Upper Condamine,4,4,4,3,0,4,4,4,4,4,1
+1591,Mareeba Dimbulah,4,4,0,4,0,4,0,4,4,4,1
+1592,Callide Valley,2,2,3,3,3,3,2,3,3,3,2
+1593,Mareeba Dimbulah,4,4,0,4,0,4,3,4,4,4,1
+1594,Callide Valley,3,0,3,3,4,3,2,3,3,3,2
+1595,Barker Barambah,2,5,3,1,3,1,4,4,5,3,1
+1596,Barker Barambah,1,3,3,3,3,1,3,1,2,3,2
+1597,Bundaberg,5,2,1,5,0,5,3,3,5,5,3
+1598,Bundaberg,3,0,0,3,3,4,4,4,4,4,0
+1599,Boyne River and Tarong,4,0,0,4,3,3,4,4,4,4,0
+1600,Bundaberg,2,5,5,5,5,1,5,5,5,5,3
+1601,Mareeba Dimbulah,5,5,5,5,5,5,5,5,5,5,3
+1602,Barker Barambah,2,4,4,4,3,4,3,4,4,4,1
+1603,Bundaberg,2,0,0,2,0,2,3,3,2,3,0
+1604,Bundaberg,4,0,0,4,0,4,5,4,3,4,0
+1605,Burdekin Haughton,3,0,0,0,0,3,0,0,3,3,2
+1606,Mareeba Dimbulah,3,3,3,4,0,3,5,4,4,4,2
+1607,Bundaberg,4,5,5,5,5,5,5,5,5,5,3
+1608,Burdekin Haughton,5,5,0,4,4,4,4,4,4,4,1
+1609,Cunnamulla,2,0,2,3,0,0,1,3,2,3,2
+1610,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1611,Mareeba Dimbulah,3,3,2,4,3,3,3,3,3,4,2
+1612,Bundaberg,5,5,5,5,0,0,5,5,5,4,3
+1613,Mareeba Dimbulah,5,2,3,4,4,2,4,2,2,3,1
+1614,Mareeba Dimbulah,4,0,0,5,0,0,5,5,5,4,0
+1615,Burdekin Haughton,3,0,0,3,0,1,3,0,1,2,0
+1616,Bundaberg,3,0,3,3,0,2,4,4,4,3,0
+1617,Bundaberg,4,0,4,5,0,4,5,4,4,4,0
+1618,Three Moon Creek,3,0,4,4,0,4,4,3,3,3,2
+1619,Three Moon Creek,3,0,0,4,4,3,3,3,3,4,2
+1620,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1621,St George,4,5,5,5,3,4,5,5,5,4,3
+1622,Bundaberg,4,3,4,3,3,3,4,4,4,4,1
+1623,Proserpine River,3,4,4,4,0,3,3,1,3,4,2
+1624,Lower Mary River,5,0,5,5,0,5,0,4,5,4,3
+1625,Upper Burnett,3,0,4,3,0,3,3,3,3,3,2
+1626,Boyne River and Tarong,3,0,4,4,0,0,3,3,3,3,2
+1627,Mareeba Dimbulah,4,4,4,4,4,4,4,4,4,4,1
+1628,Bundaberg,3,3,3,3,0,3,3,0,3,3,2
+1629,Bundaberg,3,3,4,4,0,3,4,4,4,4,0
+1630,Mareeba Dimbulah,4,0,0,0,0,0,0,0,0,4,0
+1631,Boyne River and Tarong,4,4,4,4,3,3,4,4,3,3,1
+1632,Bundaberg,5,5,5,5,5,5,5,5,5,5,3
+1633,Burdekin Haughton,3,4,4,4,4,3,4,4,4,4,1
+1634,Bundaberg,4,0,0,4,4,3,0,4,4,4,0
+1635,Bundaberg,4,0,4,4,0,0,5,0,5,4,0
+1636,Upper Burnett,4,4,0,0,0,0,4,3,3,4,0
+1637,Bundaberg,5,4,4,4,4,4,4,4,4,4,1
+1638,Nogoa Mackenzie,5,5,5,5,0,0,5,5,5,5,3
+1639,Burdekin Haughton,3,4,3,4,3,3,4,2,3,3,2
+1640,Mareeba Dimbulah,1,4,4,4,0,1,2,0,0,2,1
+1641,Upper Burnett,3,0,0,3,3,3,3,2,1,3,2
+1642,Julius Dam,4,4,4,4,0,0,0,4,0,4,1
+1643,Bundaberg,4,3,3,4,3,3,4,4,4,3,0
+1644,St George,4,4,4,4,4,4,4,4,4,4,1
+1645,Bundaberg,3,0,0,3,3,2,3,1,2,3,2
+1646,Bundaberg,4,0,4,5,0,4,5,5,5,4,0
+1647,Burdekin Haughton,4,4,0,4,4,4,4,0,4,4,1
+1648,Burdekin Haughton,3,3,4,4,5,3,3,3,3,3,2
+1649,Bundaberg,1,3,3,3,3,1,3,2,2,1,2
+1650,Barker Barambah,4,0,0,0,3,4,4,4,4,4,0
+1651,Nogoa Mackenzie,4,4,4,4,4,3,4,3,4,4,1
+1652,Bundaberg,4,0,4,3,4,4,4,5,4,4,1
+1653,Upper Burnett,4,4,4,4,0,0,3,3,4,3,0
+1654,Bundaberg,3,0,4,4,0,2,0,3,4,4,0
+1655,Mareeba Dimbulah,4,0,0,4,0,3,4,3,4,4,0
+1656,Burdekin Haughton,4,3,0,3,3,3,3,3,3,3,2
+1657,Bundaberg,3,0,0,3,0,3,4,3,4,4,0
+1658,Mareeba Dimbulah,5,0,0,5,0,0,5,5,5,5,3
+1659,St George,4,4,4,4,4,4,4,4,4,4,1
+1660,Dawson Valley,4,4,4,4,4,4,0,0,3,4,1
+1661,Burdekin Haughton,2,0,0,3,0,0,3,3,1,2,0
+1662,Bundaberg,5,0,5,5,0,5,5,5,5,5,3
+1663,Bundaberg,4,0,0,3,0,4,4,4,4,4,0
+1664,Upper Burnett,3,0,1,4,4,0,4,4,4,4,0
+1665,Mareeba Dimbulah,3,0,0,3,0,0,3,0,3,3,2
+1666,Bundaberg,4,0,0,4,0,2,4,0,5,4,0
+1667,Macintyre Brook,4,4,4,3,3,3,4,3,3,3,2
+1668,Bundaberg,5,0,0,4,0,4,5,4,4,4,0
+1669,Mareeba Dimbulah,3,4,3,4,3,4,4,4,3,3,1
+1670,Mareeba Dimbulah,4,0,0,4,0,0,4,4,5,5,0
+1671,Mareeba Dimbulah,4,4,4,4,0,4,4,4,4,4,1
+1672,Bundaberg,4,0,0,4,0,0,0,0,4,4,0
+1673,Mareeba Dimbulah,3,4,0,3,0,3,4,4,4,3,2
+1674,Dawson Valley,4,3,4,4,4,4,4,4,4,4,1
+1675,St George,3,4,4,2,0,1,4,4,3,3,1
+1676,Barker Barambah,3,4,4,4,4,3,3,3,3,2,2
+1677,Upper Burnett,3,0,3,4,3,3,3,0,3,2,2
+1678,Upper Condamine,4,4,0,4,0,4,5,5,5,5,0
+1679,Eton,5,5,0,5,0,5,5,5,5,5,3
+1680,Bundaberg,4,0,4,4,0,3,4,3,4,4,0
+1681,Eton,1,0,0,5,0,0,5,5,0,4,0
+1682,Nogoa Mackenzie,4,4,4,4,4,4,4,3,5,5,1
+1683,Burdekin Haughton,3,0,0,4,4,1,4,3,3,1,0
+1684,Mareeba Dimbulah,4,4,4,4,3,2,4,4,5,4,1
+1685,Nogoa Mackenzie,4,4,4,4,0,0,4,4,5,4,1
+1686,Bundaberg,5,5,5,5,0,0,5,5,5,4,3
+1687,Mareeba Dimbulah,3,5,3,1,2,2,4,3,3,3,2
+1688,Callide Valley,2,0,4,3,0,2,4,0,4,3,0
+1689,Eton,4,4,0,3,0,3,4,3,3,3,2
+1690,Bundaberg,5,0,0,5,0,5,5,5,5,5,3
+1691,Burdekin Haughton,4,4,4,4,4,4,4,3,4,5,1
+1692,Boyne River and Tarong,4,0,0,4,0,3,4,0,4,4,0
+1693,Upper Condamine,4,2,4,4,3,4,5,3,4,4,1
+1694,Mareeba Dimbulah,3,0,0,2,0,0,0,0,0,3,0
+1695,Boyne River and Tarong,3,0,0,2,0,3,3,3,3,3,2
+1696,Dawson Valley,3,3,4,3,0,2,3,3,3,2,2
+1697,Barker Barambah,4,4,5,4,4,4,5,4,5,5,1
+1698,Eton,4,4,0,4,0,3,4,4,4,4,0
+1699,Bundaberg,5,4,0,4,0,0,4,0,4,4,0
+1700,Burdekin Haughton,4,5,0,4,3,4,3,3,3,4,0
+1701,Burdekin Haughton,2,0,0,2,0,1,0,0,1,1,0
+1702,Proserpine River,5,4,3,3,0,3,3,3,3,3,2
+1703,Mareeba Dimbulah,4,4,4,4,0,0,0,0,4,4,0
+1704,Mareeba Dimbulah,3,4,4,3,3,3,4,3,4,3,2
+1705,Eton,3,3,3,3,3,3,3,3,3,3,2
+1706,Nogoa Mackenzie,5,5,0,4,0,5,5,5,5,4,3
+1707,Mareeba Dimbulah,4,4,0,4,0,0,4,4,4,4,0
+1708,Three Moon Creek,3,3,3,3,3,3,3,3,3,3,2
+1709,Mareeba Dimbulah,4,4,4,3,0,4,4,4,4,4,1
+1710,Burdekin Haughton,5,0,5,5,5,5,5,5,5,4,3
+1711,Barker Barambah,3,3,0,4,0,3,3,3,3,4,2
+1712,Callide Valley,3,3,3,3,3,3,3,3,3,4,2
+1713,Bundaberg,3,3,3,4,3,3,4,4,3,4,2
+1714,Bundaberg,4,0,5,5,0,0,5,0,4,4,0
+1715,Bundaberg,4,4,4,4,4,4,4,4,4,5,1
+1716,Dawson Valley,3,4,3,4,0,3,4,3,3,3,2
+1717,Bundaberg,4,1,4,4,0,1,4,4,2,2,0
+1718,Mareeba Dimbulah,3,3,3,4,3,3,3,3,3,4,2
+1719,Nogoa Mackenzie,3,0,3,4,1,3,4,3,3,1,2
+1720,Nogoa Mackenzie,4,0,0,0,0,0,0,0,0,4,0
+1721,Mareeba Dimbulah,3,2,2,0,0,3,4,3,3,3,2
+1722,Bundaberg,5,4,4,4,4,4,5,5,5,5,3
+1723,Macintyre Brook,5,5,5,3,4,5,5,5,5,5,3
+1724,Nogoa Mackenzie,4,3,3,3,0,0,4,0,0,4,0
+1725,Mareeba Dimbulah,5,5,5,5,0,5,5,0,5,4,3
+1726,Nogoa Mackenzie,1,2,2,1,1,1,1,1,1,1,0
+1727,Nogoa Mackenzie,3,4,3,4,0,4,4,3,2,3,2
+1728,Bundaberg,1,3,3,4,0,3,4,3,3,3,2
+1729,Bowen Broken Rivers,4,0,0,4,0,0,4,4,4,4,0
+1730,Dawson Valley,3,4,0,2,3,3,4,4,4,4,1
+1731,Chinchilla Weir,4,0,5,5,5,4,5,3,5,4,3
+1732,Bundaberg,5,0,5,4,3,5,5,4,5,5,3
+1733,Bundaberg,4,0,4,4,0,1,4,1,3,3,0
+1734,Mareeba Dimbulah,3,3,1,3,3,2,4,3,3,3,2
+1735,Mareeba Dimbulah,4,4,4,4,4,4,0,0,4,4,1
+1736,Bundaberg,3,0,0,4,0,4,5,4,5,4,0
+1737,Bundaberg,4,4,0,3,0,3,4,3,4,4,0
+1738,Bundaberg,4,0,5,4,0,4,3,4,4,4,0
+1739,Burdekin Haughton,3,3,3,3,3,3,4,3,3,3,2
+1740,Macintyre Brook,5,5,5,5,5,4,5,4,4,4,3
+1741,Mareeba Dimbulah,2,1,4,4,4,1,2,2,2,3,1
+1742,Mareeba Dimbulah,2,4,4,3,0,0,5,0,3,1,2
+1743,Dawson Valley,4,4,4,4,4,4,4,4,4,5,1
+1744,Bundaberg,3,0,0,3,0,0,4,3,4,4,0
+1745,Eton,3,5,3,4,0,3,4,4,4,3,2
+1746,Callide Valley,4,4,4,4,4,4,4,4,4,4,1
+1747,Bundaberg,4,4,4,4,4,4,4,4,4,4,1
+1748,Nogoa Mackenzie,5,5,5,5,0,5,5,5,5,5,3
+1749,Dawson Valley,3,5,1,5,0,2,0,0,2,2,0
+1750,Burdekin Haughton,3,4,4,4,0,3,4,2,3,2,1
+1751,Upper Condamine,4,4,4,5,5,5,5,5,4,4,1
+1752,Nogoa Mackenzie,4,0,5,4,4,0,5,0,4,4,0
+1753,Bundaberg,2,0,0,4,0,0,4,3,2,3,0
+1754,Bundaberg,4,4,4,4,4,4,4,4,4,5,1
+1755,Mareeba Dimbulah,4,0,5,5,0,0,5,0,5,4,0
+1756,Nogoa Mackenzie,4,5,4,4,4,4,4,4,4,4,1
+1757,Bundaberg,4,0,4,4,0,0,4,4,4,3,0
+1758,Nogoa Mackenzie,4,4,4,4,4,4,4,4,4,5,1
+1759,Nogoa Mackenzie,4,4,4,4,0,0,0,0,4,4,0
+1760,Dawson Valley,1,0,0,0,0,0,0,0,0,1,0
+1761,Nogoa Mackenzie,3,4,4,4,3,3,5,4,4,4,1
+1762,Burdekin Haughton,5,4,0,4,0,3,4,0,0,3,0
+1763,Three Moon Creek,3,0,0,3,0,3,3,3,3,3,2
+1764,Mareeba Dimbulah,5,0,5,5,0,0,4,0,4,4,0
+1765,Bundaberg,3,3,3,3,2,2,3,3,3,3,2
+1766,Lower Mary River,3,0,0,3,0,0,3,0,3,3,2
+1767,Eton,4,4,4,4,0,0,4,4,4,4,1
+1768,Nogoa Mackenzie,2,0,2,1,0,2,3,1,2,2,0
+1769,Three Moon Creek,3,0,3,3,0,3,3,0,3,3,2
+1770,Mareeba Dimbulah,5,0,0,4,0,0,4,0,5,3,0
+1771,Three Moon Creek,5,4,0,4,4,4,4,4,4,4,1
+1772,Upper Burnett,2,0,3,3,0,0,3,2,2,2,2
+1773,Barker Barambah,4,5,4,4,4,4,4,4,4,4,1
+1774,Eton,3,5,0,3,0,1,3,1,0,3,2
+1775,St George,3,0,3,3,3,3,4,4,4,3,2
+1776,Lower Mary River,3,0,2,3,1,2,2,2,3,4,2
+1777,Bundaberg,3,2,2,2,3,2,3,2,2,2,2
+1778,Dawson Valley,5,0,0,5,0,5,5,5,5,5,3
+1779,Mareeba Dimbulah,4,0,4,4,0,4,5,4,3,4,1
+1780,Mareeba Dimbulah,4,0,0,4,0,4,0,0,0,4,0
+1781,Boyne River and Tarong,1,1,3,1,1,1,1,1,2,2,2
+1782,Callide Valley,4,0,4,3,0,0,3,0,3,3,0
+1783,Mareeba Dimbulah,4,4,0,4,0,0,4,0,4,4,0
+1784,Dawson Valley,1,1,0,1,0,0,3,0,1,1,0
+1785,Proserpine River,2,3,4,4,0,2,3,2,2,2,2
+1786,Bundaberg,4,0,0,4,0,0,4,4,4,4,0
+1787,Burdekin Haughton,4,4,4,4,0,3,5,3,4,3,1
+1788,Barker Barambah,3,3,0,3,0,3,4,3,3,3,2
+1789,Mareeba Dimbulah,3,0,3,3,0,0,3,4,4,3,2
+1790,Nogoa Mackenzie,3,3,0,3,0,3,4,3,3,3,2
+1791,Bundaberg,2,3,5,3,0,1,4,3,1,2,2
+1792,Bundaberg,2,1,1,2,3,1,4,1,1,1,0
+1793,Mareeba Dimbulah,4,0,3,4,0,3,0,0,4,4,0
+1794,Dawson Valley,3,4,4,4,0,0,4,0,4,4,0
+1795,Bundaberg,3,0,0,3,0,0,3,0,3,3,0
+1796,Barker Barambah,2,3,0,4,0,3,3,3,3,3,2
+1797,Upper Burnett,4,0,0,4,0,4,5,0,4,4,0
+1798,Eton,3,4,2,3,3,2,4,4,2,3,1
+1799,Upper Burnett,3,3,4,3,0,2,4,3,3,3,2
+1800,Burdekin Haughton,5,4,5,4,2,3,5,2,5,4,3
+1801,Bundaberg,3,3,3,3,0,1,4,3,4,3,2
+1802,Bundaberg,5,0,4,4,0,3,5,3,4,3,0
+1803,Macintyre Brook,3,3,4,3,4,4,4,3,4,3,1
+1804,Mareeba Dimbulah,2,3,3,1,3,1,1,1,1,1,2
+1805,Mareeba Dimbulah,4,0,0,4,0,0,4,4,4,4,0
+1806,Macintyre Brook,3,4,4,4,0,0,0,0,0,3,0
+1807,Proserpine River,4,4,4,4,4,4,4,4,4,4,1
+1808,Bundaberg,3,0,4,2,0,1,2,2,2,2,0
+1809,Eton,1,3,0,3,0,0,4,4,0,3,0
+1810,Chinchilla Weir,3,0,0,0,0,0,3,0,3,3,0
+1811,Mareeba Dimbulah,3,3,4,4,3,4,4,3,3,4,1
+1812,Proserpine River,2,2,0,4,0,2,1,3,2,2,0
+1813,Bundaberg,3,0,4,4,0,1,3,4,3,4,0
+1814,Boyne River and Tarong,3,0,0,3,0,0,0,0,3,3,0
+1815,Eton,2,3,3,2,2,2,3,3,3,3,2
+1816,Mareeba Dimbulah,1,1,1,1,1,1,1,1,1,1,1
+1817,Burdekin Haughton,4,4,4,4,4,4,4,4,4,3,1
+1818,Callide Valley,2,0,3,3,0,1,3,3,1,1,2
+1819,Burdekin Haughton,1,4,3,3,3,2,1,0,1,1,2
+1820,Mareeba Dimbulah,3,0,0,3,0,4,4,0,2,3,0
+1821,Boyne River and Tarong,4,0,0,5,0,3,5,0,4,5,0
+1822,Mareeba Dimbulah,3,0,0,4,0,0,1,2,3,3,0
+1823,Mareeba Dimbulah,3,4,3,3,0,0,3,0,4,4,2
+1824,Barker Barambah,1,1,1,1,1,1,3,1,1,3,2
+1825,Mareeba Dimbulah,4,0,0,4,5,0,4,3,3,4,0
+1826,Dawson Valley,3,4,0,4,3,2,4,3,2,3,0
+1827,Eton,4,4,0,4,4,4,4,4,4,4,1
+1828,St George,5,0,4,4,4,0,4,0,4,4,0
+1829,Barker Barambah,2,5,5,5,0,1,5,3,5,4,3
+1830,Barker Barambah,3,2,2,3,0,0,3,3,3,3,2
+1831,Barker Barambah,2,3,3,3,4,3,4,4,3,2,2
+1832,Nogoa Mackenzie,4,4,3,3,4,3,4,4,3,3,1
+1833,Barker Barambah,1,1,3,5,0,1,3,3,3,4,2
+1834,Mareeba Dimbulah,3,3,0,2,0,0,4,2,3,3,2
+1835,Mareeba Dimbulah,3,0,4,4,0,0,0,0,0,4,0
+1836,Eton,4,3,3,3,3,2,3,3,4,3,2
+1837,Lower Mary River,5,4,0,4,4,3,0,0,4,4,0
+1838,Burdekin Haughton,3,4,4,4,0,3,4,3,4,4,1
+1839,Macintyre Brook,4,4,4,4,0,4,1,0,4,4,1
+1840,Mareeba Dimbulah,4,3,3,3,3,3,3,3,3,4,2
+1841,Bundaberg,3,0,3,3,0,2,3,2,3,3,2
+1842,Barker Barambah,4,0,0,4,0,3,0,0,3,4,0
+1843,Boyne River and Tarong,4,0,0,4,0,0,0,0,4,4,0
+1844,Eton,2,4,0,1,2,3,4,2,2,2,0
+1845,Bundaberg,2,1,0,3,0,2,3,3,3,3,2
+1846,Bundaberg,3,3,2,3,3,2,2,2,3,3,2
+1847,Barker Barambah,1,4,4,2,0,1,2,0,1,1,0
+1848,Mareeba Dimbulah,3,4,0,3,0,2,2,3,3,3,2
+1849,Bundaberg,4,5,5,5,0,4,5,0,5,4,3
+1850,Callide Valley,3,5,3,3,0,3,3,3,3,3,2
+1851,Bundaberg,4,0,5,5,4,2,5,4,5,4,3
+1852,Mareeba Dimbulah,5,2,0,5,0,4,4,0,4,4,0
+1853,Bundaberg,4,5,5,5,5,5,5,5,5,4,3
+1854,Lower Mary River,4,0,0,4,0,0,4,3,4,4,0
+1855,Bundaberg,3,4,0,3,0,3,4,4,3,4,0
+1856,Burdekin Haughton,2,3,3,2,0,1,3,2,2,2,2
+1857,Lower Fitzroy,5,4,0,4,0,3,0,0,4,4,0
+1858,Upper Condamine,3,5,3,4,4,3,5,3,3,4,2
+1859,Burdekin Haughton,4,4,4,4,1,2,4,3,4,3,1
+1860,Upper Burnett,4,4,4,4,4,4,4,4,4,4,1
+1861,Eton,5,5,5,5,4,4,5,5,5,4,3
+1862,Bundaberg,3,4,4,4,0,3,4,4,4,4,1
+1863,Bundaberg,2,0,0,4,0,2,4,4,4,4,0
+1864,Bundaberg,2,1,1,4,1,1,4,2,1,2,0
+1865,Boyne River and Tarong,4,3,4,4,3,3,4,3,3,3,2
+1866,Macintyre Brook,2,0,0,3,3,0,0,0,1,1,0
+1867,Dawson Valley,3,0,4,4,3,3,4,4,4,4,1
+1868,Barker Barambah,1,0,1,1,1,1,1,1,1,2,0
+1869,Boyne River and Tarong,3,0,0,4,0,4,3,0,0,4,0
+1870,Bundaberg,1,0,2,4,0,2,4,4,4,3,0
+1871,Lower Fitzroy,4,0,0,3,0,0,3,0,3,3,0
+1872,St George,2,4,4,4,3,1,3,2,2,3,1
+1873,Bundaberg,4,0,0,3,0,0,5,3,4,5,0
+1874,Pioneer River,5,0,5,5,5,5,0,0,3,3,3
+1875,Mareeba Dimbulah,4,5,4,4,3,3,2,3,4,4,1
+1876,Mareeba Dimbulah,1,1,1,1,1,1,1,1,1,1,1
+1877,Mareeba Dimbulah,2,0,1,1,1,1,4,2,1,3,0
+1878,Bundaberg,1,1,4,4,0,1,0,0,3,3,0
+1879,Eton,3,0,0,3,0,3,4,0,3,3,2
+1880,Bundaberg,3,0,4,4,1,5,5,3,4,4,0
+1881,Dawson Valley,1,0,3,4,0,1,1,0,2,3,0
+1882,Dawson Valley,4,4,4,4,0,3,5,4,4,3,1
+1883,Bundaberg,5,0,5,5,0,0,5,3,5,5,3
+1884,Bundaberg,1,3,0,3,0,1,3,3,1,1,2
+1885,Bundaberg,4,0,4,4,0,3,4,4,4,4,0
+1886,Bundaberg,4,0,0,4,0,4,4,4,4,4,0
+1887,Mareeba Dimbulah,1,2,2,3,0,1,1,1,1,1,2
+1888,Upper Condamine,3,0,3,3,0,3,3,3,3,3,2
+1889,Boyne River and Tarong,4,0,0,4,3,3,4,0,3,3,0
+1890,Bundaberg,4,4,5,4,4,4,4,4,4,4,1
+1891,Maranoa River,4,0,0,0,0,0,0,0,0,3,0
+1892,Boyne River and Tarong,3,3,0,3,0,3,4,4,4,3,2
+1893,Burdekin Haughton,1,0,0,4,0,0,4,4,4,4,0
+1894,Bundaberg,2,1,2,1,2,1,4,3,3,2,0
+1895,Bundaberg,1,4,4,3,3,1,5,4,4,3,1
+1896,Upper Condamine,4,4,4,4,0,5,4,4,4,4,1
+1897,Bundaberg,1,0,4,3,0,1,3,0,3,2,0
+1898,Bundaberg,3,0,0,4,0,2,4,3,0,3,0
+1899,Macintyre Brook,2,4,4,4,0,2,2,0,3,3,0
+1900,Bundaberg,2,1,3,4,0,1,3,3,4,3,2
+1901,Mareeba Dimbulah,3,2,5,5,0,1,4,4,3,3,2
+1902,Barker Barambah,3,4,0,4,0,0,4,3,4,4,0
+1903,Bundaberg,1,1,1,1,1,1,0,0,1,3,0
+1904,Barker Barambah,1,5,1,4,0,1,0,0,3,1,0
+1905,Bundaberg,3,0,4,4,4,4,4,4,4,4,1
+1906,Upper Condamine,4,4,4,4,4,4,4,4,4,4,1
+1907,Bundaberg,3,0,3,4,0,0,4,0,4,4,0
+1908,Upper Burnett,1,0,3,3,0,1,3,3,1,1,2
+1909,Mareeba Dimbulah,4,0,0,4,0,0,4,0,4,3,0
+1910,Mareeba Dimbulah,3,3,4,4,4,2,4,3,3,2,1
+1911,Bundaberg,1,1,3,2,0,2,3,2,1,3,2
+1912,Mareeba Dimbulah,2,3,0,3,0,1,1,1,2,3,2
+1913,Bundaberg,2,0,4,4,0,0,4,4,0,3,0
+1914,Boyne River and Tarong,5,0,0,5,0,4,5,5,5,5,3
+1915,Mareeba Dimbulah,3,0,4,4,3,0,4,0,3,3,0
+1916,Bundaberg,4,4,4,4,3,4,4,4,3,4,1
+1917,Mareeba Dimbulah,3,0,0,3,0,0,4,4,4,2,0
+1918,Nogoa Mackenzie,4,4,5,4,4,4,5,3,5,4,1
+1919,Three Moon Creek,4,4,5,4,4,3,4,4,4,4,1
+1920,Proserpine River,3,3,0,4,0,3,4,0,4,4,0
+1921,Dawson Valley,3,0,4,4,0,3,5,4,3,3,2
+1922,Eton,4,0,0,4,0,0,4,0,4,4,0
+1923,Mareeba Dimbulah,4,5,5,5,0,4,5,4,4,4,1
+1924,Burdekin Haughton,3,5,5,5,5,5,5,3,3,2,3
+1925,Mareeba Dimbulah,5,0,5,5,0,0,5,5,4,5,3
+1926,Nogoa Mackenzie,4,0,0,4,0,0,4,0,5,4,0
+1927,Burdekin Haughton,3,0,0,0,0,0,0,0,0,3,0
+1928,Bundaberg,4,0,4,4,4,4,5,0,3,1,0
+1929,Bundaberg,3,1,1,3,0,1,5,1,1,1,2
+1930,Bundaberg,1,1,1,3,0,1,3,1,1,1,2
+1931,Macintyre Brook,4,4,4,3,3,4,4,3,4,4,1
+1932,Bundaberg,3,0,0,5,0,0,5,0,4,3,0
+1933,Bundaberg,5,0,0,5,0,0,0,0,0,4,0
+1934,Bundaberg,4,0,2,4,0,3,3,3,3,3,2
+1935,Mareeba Dimbulah,3,4,0,4,0,1,4,2,3,4,0
+1936,Bundaberg,4,0,4,4,0,4,5,0,4,4,0
+1937,Lower Mary River,3,0,4,4,4,2,4,3,4,4,1
+1938,Mareeba Dimbulah,5,0,5,5,0,0,5,0,5,5,3
+1939,Bundaberg,5,5,0,5,0,0,5,0,5,5,3
+1940,Eton,1,0,0,2,0,0,0,0,3,3,0
+1941,Lower Mary River,4,0,0,4,0,3,4,3,4,3,0
+1942,Mareeba Dimbulah,1,3,4,3,2,1,2,1,1,3,2
+1943,Lower Fitzroy,3,0,0,3,3,0,4,4,3,3,0
+1944,Three Moon Creek,4,4,4,4,3,4,4,3,4,4,1
+1945,Proserpine River,5,5,0,4,0,4,5,4,4,4,0
+1946,Nogoa Mackenzie,3,3,3,3,0,3,3,3,3,3,2
+1947,Mareeba Dimbulah,4,0,0,4,0,0,5,5,5,4,0
+1948,Macintyre Brook,3,3,4,4,0,3,4,0,3,3,2
+1949,Nogoa Mackenzie,2,3,3,3,3,3,3,3,3,3,2
+1950,Callide Valley,4,0,0,4,4,3,4,3,3,4,0
+1951,Eton,3,3,0,3,0,1,3,3,0,3,2
+1952,Burdekin Haughton,2,2,0,2,0,2,4,2,1,2,0
+1953,Burdekin Haughton,3,3,3,3,3,2,3,3,2,3,2
+1954,Dawson Valley,2,4,4,4,4,4,4,4,4,4,1
+1955,Proserpine River,1,4,0,4,0,2,4,4,2,2,0
+1956,Nogoa Mackenzie,4,0,0,4,3,4,5,4,4,4,0
+1957,Mareeba Dimbulah,3,3,4,4,3,3,3,3,3,3,2
+1958,Bundaberg,4,0,5,4,0,4,5,4,4,4,0
+1959,Macintyre Brook,1,3,2,2,0,2,3,0,2,3,2
+1960,Bundaberg,1,3,4,4,4,2,4,4,4,2,1
+1961,St George,1,2,2,3,2,1,2,1,2,2,2
+1962,Bundaberg,1,1,1,1,1,1,1,1,2,1,0
+1963,Bundaberg,5,0,5,5,5,5,5,5,5,5,3
+1964,Burdekin Haughton,3,4,0,4,0,3,3,1,2,3,2
+1965,Mareeba Dimbulah,4,0,4,5,0,0,4,2,4,2,0
+1966,St George,4,4,4,4,0,3,4,4,4,4,1
+1967,Dawson Valley,1,4,1,1,1,1,4,1,1,1,1
